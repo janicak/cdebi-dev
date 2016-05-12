@@ -31,9 +31,6 @@ class SearchBar extends Component {
             value={ this.state.term }
             onChange={ this.handleInputChange }
           />
-        <button type="submit" className="pure-button">
-            { "Submit" }
-          </button>
         </form>
     )
   }

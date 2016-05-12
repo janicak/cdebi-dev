@@ -99,6 +99,7 @@ export const makeConfig = (config = {}) => {
               anchorClassName: "phenomic-HeadingAnchor",
               anchorLinkSymbolClassName: "octicon octicon-link",
               anchorLinkSymbol: "",
+              anchorLinkBefore: false,
             })
             .use(markdownItSub)
             .use(markdownItSup)

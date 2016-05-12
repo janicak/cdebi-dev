@@ -10,8 +10,9 @@ When C-DEBI was first proposed as a NSF-sponsored Science and Technology Center 
 
 ==Update graphic with additional sites? Consolidate graphic with bullet list as infographic? Fill in Dorado bullet list?==
 
-<div style="display: inline-block;" markdown="1">
-<div style="display: block; float: left; clear: none; width: 300px;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+<div style="flex-grow: 0; width: 300px;">
+
 [**Juan de Fuca**](#eastern-flank-of-the-juan-de-fuca-jdf-ridge)
 
 *   young (~ 3 million years old)
@@ -36,9 +37,10 @@ When C-DEBI was first proposed as a NSF-sponsored Science and Technology Center 
 [**Dorado Outcrop**](#dorado-outcrop-do)
 
 </div>
-<div style="display: block; float: left; clear: none;">
-<span class="figure-wrapper"><span class="figure">
-<span class="image"><img src="http://www.darkenergybiosphere.org/wp-content/uploads/2016/01/majorFourSites.png" alt="" width="250" style="width: 200px;" /></span><span class="caption">Modified from 2010 McClatchy Tribune Graphic by Hulteng/Treible</span></span>
+<div style="flex-grow: 1;">
+<img src="http://www.darkenergybiosphere.org/wp-content/uploads/2016/01/majorFourSites.png" alt="" width="250" style="width: 200px;" />
+
+Modified from 2010 McClatchy Tribune Graphic by Hulteng/Treible
 </div>
 </div>
 
@@ -55,7 +57,7 @@ These major field sites are poised to make significant contributions towards ach
 
 ==The text here, as with the other programs, was lifted directly from the Annual Report. Should the writing be pitched differently for the website - and shorter if we're going to be including additional field sites?==
 
-==In the overview paragraph, "Major Programs" was in quotes - are we still referring to major programs?==The Juan de Fuca Ridge flank ++major program++ is exploring the nature of linked hydrogeologic, geochemical, and microbiological conditions and processes in a region that is the best understood example of ridge-flank hydrothermal circulation on the planet. In this setting, a volcanic crustal aquifer contains highly altered (suboxic to anoxic), warm (64 °C) hydrothermal fluids that are isolated from the overlying ocean in most locations by hundreds of meters of hemipelagic sediment and turbidites. Projects using data and field samples from this region have included two IODP expeditions (301 and 327); long-term borehole observatories (CORKs) used for testing, monitoring and sampling; and numerous non-drilling oceanographic expeditions using oceanographic ships and submersibles/ROVs, laboratory studies using materials and associated microbial cultures, and theoretical and computational experiments. Tools and methods developed for the JdF program have been adapted and applied at other sites, including other C-DEBI major program locations.
+==In the overview paragraph, "Major Programs" was in quotes - are we still referring to major programs?== The Juan de Fuca Ridge flank ++major program++ is exploring the nature of linked hydrogeologic, geochemical, and microbiological conditions and processes in a region that is the best understood example of ridge-flank hydrothermal circulation on the planet. In this setting, a volcanic crustal aquifer contains highly altered (suboxic to anoxic), warm (64 °C) hydrothermal fluids that are isolated from the overlying ocean in most locations by hundreds of meters of hemipelagic sediment and turbidites. Projects using data and field samples from this region have included two IODP expeditions (301 and 327); long-term borehole observatories (CORKs) used for testing, monitoring and sampling; and numerous non-drilling oceanographic expeditions using oceanographic ships and submersibles/ROVs, laboratory studies using materials and associated microbial cultures, and theoretical and computational experiments. Tools and methods developed for the JdF program have been adapted and applied at other sites, including other C-DEBI major program locations.
 
 The JdF major program has contributed to training of numerous graduate and undergraduate students and other junior researchers, including those who add diversity to the STEM pipeline; has linked researchers and students from across the US and around the world, who work on common technical and scientific goals; and has comprised the basis for several successful education and outreach programs to the K-12 community and the public at large.
 
@@ -84,24 +86,24 @@ For a summary of recent accomplishments, see the [2015 C-DEBI Annual Report](htt
 
 ==Given that this page is mean primarily for narrative, should these cruise reports be moved to a section under 'Resources'?==
 
-June 15 - July 1, 2010
-[UNOLS Expedition: *Microbial ecology of ocean basement aquifers: ODP borehole observatories* ](http://strs.unols.org/Public/diu_cruise_view.aspx?cruise_id=120638)
+June 15 - July 1, 2010  
+[UNOLS Expedition: *Microbial ecology of ocean basement aquifers: ODP borehole observatories* ](http://strs.unols.org/Public/diu_cruise_view.aspx?cruise_id=120638)  
 **Chief scientist:** Jim Cowen
 
-July 5 - September 5, 2010
-[IODP Expedition 327: *The hydrogeologic architecture of basaltic ocean crust: compartmentalization, anisotropy, microbiology, and crustal-scale properties on the eastern flank of Juan de Fuca Ridge, eastern Pacific Ocean*](http://publications.iodp.org/proceedings/327/327title.htm)
+July 5 - September 5, 2010  
+[IODP Expedition 327: *The hydrogeologic architecture of basaltic ocean crust: compartmentalization, anisotropy, microbiology, and crustal-scale properties on the eastern flank of Juan de Fuca Ridge, eastern Pacific Ocean*](http://publications.iodp.org/proceedings/327/327title.htm)  
 **Co-chief scientists:** Andy Fisher and Takeshi Tsuji
 
-June 28 - July 14, 2011
-[UNOLS Expedition AT18-07 RV Atlantis/ROV Jason-II: *Eastern flank of the Juan de Fuca Ridge CORK dive program*](http://www.darkenergybiosphere.org/wp-content/uploads/docs/AT18-07_Report_110908.pdf)
+June 28 - July 14, 2011  
+[UNOLS Expedition AT18-07 RV Atlantis/ROV Jason-II: *Eastern flank of the Juan de Fuca Ridge CORK dive program*](http://www.darkenergybiosphere.org/wp-content/uploads/docs/AT18-07_Report_110908.pdf)  
 **Co-chief scientists:** Andy Fisher, Jim Cowen and Keir Becker
 
-July 13-26, 2013
-[UNOLS Expedition AT 26-03 RV Atlantis/ROV Jason II: *Hydrogeologic, geochemical, and microbiological experiments in young ocean crust of the northeastern Pacific Ocean using subseafloor observatories*](http://www.darkenergybiosphere.org/wp-content/uploads/docs/AT26-03%20Cruise%20Report.pdf)
+July 13-26, 2013  
+[UNOLS Expedition AT 26-03 RV Atlantis/ROV Jason II: *Hydrogeologic, geochemical, and microbiological experiments in young ocean crust of the northeastern Pacific Ocean using subseafloor observatories*](http://www.darkenergybiosphere.org/wp-content/uploads/docs/AT26-03%20Cruise%20Report.pdf)  
 **Chief scientist:** Andy Fisher
 
-August 10-24, 2014
-[UNOLS Expedition AT 26-18 RV Atlantis/ROV Alvin: *Completing single- and cross-hole hydrogeologic and microbial experiments: Juan de Fuca Flank*](http://www.darkenergybiosphere.org/wp-content/uploads/docs/AT26-18%20JFR%20Cork%20Recovery%20Cruise%20Report%20reduced.pdf))
+August 10-24, 2014  
+[UNOLS Expedition AT 26-18 RV Atlantis/ROV Alvin: *Completing single- and cross-hole hydrogeologic and microbial experiments: Juan de Fuca Flank*](http://www.darkenergybiosphere.org/wp-content/uploads/docs/AT26-18%20JFR%20Cork%20Recovery%20Cruise%20Report%20reduced.pdf))  
 **Chief scientist:** Geoff Wheat
 
 ==Cruise updates?==
@@ -138,20 +140,20 @@ For a summary of recent accomplishments, see the [2015 C-DEBI Annual Report](htt
 
 ### North Pond Expedition History
 
-February 19 - March 12, 2009
-[UNOLS Expedition MSM: *Site Survey Expedition*](http://www.livescience.com/7730-hunting-life-rocks-beneath-seas.html)
+February 19 - March 12, 2009  
+[UNOLS Expedition MSM: *Site Survey Expedition*](http://www.livescience.com/7730-hunting-life-rocks-beneath-seas.html)  
+**Co-chief scientists:** Katrina Edwards and Wolfgang Bach  
+
+September 16 - November 19, 2011  
+[IODP Expedition 336: *Microbiology of a sediment pond and the underlying young, cold, hydrologically active ridge flank*](http://publications.iodp.org/preliminary_report/336/)  
 **Co-chief scientists:** Katrina Edwards and Wolfgang Bach
 
-September 16 - November 19, 2011
-[IODP Expedition 336: *Microbiology of a sediment pond and the underlying young, cold, hydrologically active ridge flank*](http://publications.iodp.org/preliminary_report/336/)
+April 11 - May 10, 2012  
+[UNOLS Expedition MSM 20/5: *Microbiology of a sediment pond and the underlying young, cold, hydrologically active ridge flank*](http://strs.unols.org/Public/diu_cruise_view.aspx?cruise_id=131018)  
 **Co-chief scientists:** Katrina Edwards and Wolfgang Bach
 
-April 11 - May 10, 2012
-[UNOLS Expedition MSM 20/5: *Microbiology of a sediment pond and the underlying young, cold, hydrologically active ridge flank*](http://strs.unols.org/Public/diu_cruise_view.aspx?cruise_id=131018)
-**Co-chief scientists:** Katrina Edwards and Wolfgang Bach
-
-March 22 - April 21, 2014
-UNOLS Expedition MSM 37: *Microbiology of a sediment pond and the underlying young, cold, hydrologically active ridge flank*
+March 22 - April 21, 2014  
+UNOLS Expedition MSM 37: *Microbiology of a sediment pond and the underlying young, cold, hydrologically active ridge flank*  
 **Co-chief scientists:** Keir Becker and Heinrich Villinger
 
 ==Cruise updates?==
@@ -181,13 +183,14 @@ This project addresses fundamental questions about subseafloor life, including t
 
 Answering these questions will help to achieve all three of the broader C-DEBI themes/objectives.
 
+::: also
 For a summary of recent accomplishments, see the [2015 C-DEBI Annual Report](http://www.darkenergybiosphere.org/wp-content/uploads/docs/2015C-DEBIAnnualReport_forweb.pdf)
 :::
 
 ### South Pacific Gyre Expedition History
 
-October 9 - December 13, 2010
-[IODP Expedition 329: *Life beneath the seafloor of the South Pacific Gyre*](http://publications.iodp.org/preliminary_report/329/)
+October 9 - December 13, 2010  
+[IODP Expedition 329: *Life beneath the seafloor of the South Pacific Gyre*](http://publications.iodp.org/preliminary_report/329/)  
 **Co-chief scientists:** Steven D'Hondt and Fumio Inagaki
 
 ==Cruise updates?==
@@ -215,12 +218,12 @@ For a summary of recent accomplishments, see the [2015 C-DEBI Annual Report](htt
 
 ### Dorado Outcrop Expedition History
 
-December 7 - December 23, 2013
-[UNOLS Expedition AT26-09: *Discovery, sampling, and quantification of flows from cool yet massive ridge flank hydrothermal springs on Dorado Outcrop, eastern Pacific Ocean*](http://www.darkenergybiosphere.org/wp-content/uploads/docs/DoradoCruiseReport2013.pdf)
+December 7 - December 23, 2013  
+[UNOLS Expedition AT26-09: *Discovery, sampling, and quantification of flows from cool yet massive ridge flank hydrothermal springs on Dorado Outcrop, eastern Pacific Ocean*](http://www.darkenergybiosphere.org/wp-content/uploads/docs/DoradoCruiseReport2013.pdf)  
 **Chief scientist:** [C. Geoffrey Wheat](http://www.sfos.uaf.edu/directory/faculty/wheat/)
 
-November 30 - December 12, 2014
-[UNOLS Expedition R/V Atlantis AT26-24 with the Submersible Alvin](http://www.darkenergybiosphere.org/wp-content/uploads/docs/Dorado%20Outcrop%202014%20Cruise%20Report%20reduced.pdf)
+November 30 - December 12, 2014  
+[UNOLS Expedition R/V Atlantis AT26-24 with the Submersible Alvin](http://www.darkenergybiosphere.org/wp-content/uploads/docs/Dorado%20Outcrop%202014%20Cruise%20Report%20reduced.pdf)  
 **Chief scientist:** [C. Geoffrey Wheat](http://www.sfos.uaf.edu/directory/faculty/wheat/)
 
 ==Cruise updates?==

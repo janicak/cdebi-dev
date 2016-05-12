@@ -4,11 +4,13 @@ layout: Page
 route: research/fellowship-program
 ---
 
-## Call for Proposals (now closed)
+## Call for Proposals
 
-<dl><dt>This call is now closed. We expect our next call to be due in 2017.</dt></dl>
+>This call is now closed. We expect our next call to be due in 2017.
 
+::: also
 [DOC version of the 2016 C-DEBI Fellowship Program Guidelines **WITH WORDING UPDATES**](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIFellowshipProgram_2016b.docx)
+:::
 
 ### Program Objective
 
@@ -34,7 +36,7 @@ We anticipate successful proposals to start 4/1/16 in alignment with our funding
 
 ## Application and Submission
 
-<dl><dt>This call is now closed. We expect our next call to be due in 2017.</dt></dl>
+>This call is now closed. We expect our next call to be due in 2017.
 
 __Graduate Student Fellowship proposals__ should include:
 
@@ -63,33 +65,39 @@ __Postdoctoral Fellowship proposals__ should include:
 #### Details on submission components
 
 **Institutional Letter of Intent**
->The home institution's Sponsored Research Office must submit an institutional letter of intent indicating the official submission of the proposal and the contact at the institution who will be receiving the award on behalf of the institution.  [[Details on the NSF award](grant-programs-faq.md#what-is-the-source-of-c-debi-funding-am-i-eligible)]
+
+:   The home institution's Sponsored Research Office must submit an institutional letter of intent indicating the official submission of the proposal and the contact at the institution who will be receiving the award on behalf of the institution.  [[Details on the NSF award](grant-programs-faq.md#what-is-the-source-of-c-debi-funding-am-i-eligible)]
 
 **Project Description**
->Include a description of the proposed research (statement of the problem, background and relevance to previous work, discussion of methodology and procedure to be followed, explanation of new or unusual techniques, and discussion of expected results, significance, and application) as well as a broader impacts statement (see below), and a brief plan for making data public and accessible in accordance with the [C-DEBI Data Management Plan](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIDataManagementPlan_2015.pdf).
->
-The research project should clearly be the applicant's own endeavor and should demonstrate the applicant’s capability or potential for carrying out the project. Research goals should be realistic and attainable within the expected period of the fellowship. As necessary, the methodology section should also discuss any relevant pilot studies, projected numbers of samples, sampling strategies, and both limitations and strengths of the proposed techniques. Literature citations should be included throughout the proposal wherever appropriate.
+:   Include a description of the proposed research (statement of the problem, background and relevance to previous work, discussion of methodology and procedure to be followed, explanation of new or unusual techniques, and discussion of expected results, significance, and application) as well as a broader impacts statement (see below), and a brief plan for making data public and accessible in accordance with the [C-DEBI Data Management Plan](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIDataManagementPlan_2015.pdf).
+
+    The research project should clearly be the applicant's own endeavor and should demonstrate the applicant’s capability or potential for carrying out the project. Research goals should be realistic and attainable within the expected period of the fellowship. As necessary, the methodology section should also discuss any relevant pilot studies, projected numbers of samples, sampling strategies, and both limitations and strengths of the proposed techniques. Literature citations should be included throughout the proposal wherever appropriate.
 
 **Broader Impacts Statement**
->The Broader Impacts statement serves two purposes in our commitment to [NSF’s Broader Impacts Criterion](http://www.nsf.gov/pubs/2007/nsf07046/nsf07046.jsp): to further integrate research and education with a focus on early career professional development and to provide training to early career scientists in developing a Broader Impacts statement. Proposals must include a Broader Impacts statement (<200 words under a “Broader Impacts” heading), detailing how the fellow will participate in an Education, Outreach, and Diversity activity each year they are funded. Fellows will coordinate with the [C-DEBI Education Director, Stephanie Schroeder](mailto:slschroe@usc.edu), to ensure the activity is purposeful and relevant to C-DEBI outreach. Resulting products will be made available on the C-DEBI webpage. Example activities include:
->
-* Present 2 research talks at a community college(s)
-* Volunteer at an Informal Science Education institute (e.g., aquarium, science museum, etc.) and develop an activity for the public with an educator
-* Develop a lesson plan with a K-12 teacher
-* Plan 2 professional development webinars
-* Mentor a young researcher (e.g., high school, community college, undergraduate student) in the lab
-* Participate in professional development sessions at the fellow’s home institution (2, less depending on time commitment)
+
+:   The Broader Impacts statement serves two purposes in our commitment to [NSF’s Broader Impacts Criterion](http://www.nsf.gov/pubs/2007/nsf07046/nsf07046.jsp): to further integrate research and education with a focus on early career professional development and to provide training to early career scientists in developing a Broader Impacts statement. Proposals must include a Broader Impacts statement (<200 words under a “Broader Impacts” heading), detailing how the fellow will participate in an Education, Outreach, and Diversity activity each year they are funded. Fellows will coordinate with the [C-DEBI Education Director, Stephanie Schroeder](mailto:slschroe@usc.edu), to ensure the activity is purposeful and relevant to C-DEBI outreach. Resulting products will be made available on the C-DEBI webpage. Example activities include:
+
+    * Present 2 research talks at a community college(s)
+    * Volunteer at an Informal Science Education institute (e.g., aquarium, science museum, etc.) and develop an activity for the public with an educator
+    * Develop a lesson plan with a K-12 teacher
+    * Plan 2 professional development webinars
+    * Mentor a young researcher (e.g., high school, community college, undergraduate student) in the lab
+    * Participate in professional development sessions at the fellow’s home institution (2, less depending on time commitment)
 
 **Proposal Implementation Statement** (graduate fellowships only)
->Include a 1 page statement briefly describing the research facilities where you plan to carry out laboratory testing, if applicable, and a timeline and schedule of your proposed research and broader impacts activities.
+
+:   Include a 1 page statement briefly describing the research facilities where you plan to carry out laboratory testing, if applicable, and a timeline and schedule of your proposed research and broader impacts activities.
 
 **Budget and Budget Justification**
->Funding for a fellowship can include stipend/benefits (typical salaries <span class="texthighlight">not including benefits</span> on the order of $32K for graduates and $50K for postdoctorals), a research and/or travel budget of $1000 for graduate students and $2500 for postdoctorals, and institutional overhead.  Funds will be distributed directly to the advisor’s home institution. The home institution must be a US institution able to receive NSF funding as a subaward.
+
+:   Funding for a fellowship can include stipend/benefits (typical salaries <span class="texthighlight">not including benefits</span> on the order of $32K for graduates and $50K for postdoctorals), a research and/or travel budget of $1000 for graduate students and $2500 for postdoctorals, and institutional overhead.  Funds will be distributed directly to the advisor’s home institution. The home institution must be a US institution able to receive NSF funding as a subaward.
 
 **Curriculum Vitae**
->Include relevant educational history (degrees and dates awarded); fellowships, scholarships, and awards received; academic honors received; society membership(s); employment experience (including any internships); and any authored or co-authored journal articles, abstracts, or other publications related to your proposed research.
+
+:   Include relevant educational history (degrees and dates awarded); fellowships, scholarships, and awards received; academic honors received; society membership(s); employment experience (including any internships); and any authored or co-authored journal articles, abstracts, or other publications related to your proposed research.
 
 **Faculty Advisor Material**
->Include a copy of the faculty advisor's two page curriculum vitae and a letter of recommendation addressing 1) the degree of originality and independence the applicant has shown in developing the proposed fellowship research and 2) how the research is intellectually and fiscally linked to the advisor's research (funded or pending). The advisor should also include a statement of commitment to mentoring the advisee as described in the requirements section above. This can be submitted directly to [C-DEBI Managing Director, Rosalynn Sylvan](mailto:rosalyyl@usc.edu?subject=Fellowship%20Recommendation).
+
+:   Include a copy of the faculty advisor's two page curriculum vitae and a letter of recommendation addressing 1) the degree of originality and independence the applicant has shown in developing the proposed fellowship research and 2) how the research is intellectually and fiscally linked to the advisor's research (funded or pending). The advisor should also include a statement of commitment to mentoring the advisee as described in the requirements section above. This can be submitted directly to [C-DEBI Managing Director, Rosalynn Sylvan](mailto:rosalyyl@usc.edu?subject=Fellowship%20Recommendation).
 
 Please submit your proposal __as a single PDF__ in response to the [annual research call](research-grants.md) via our online submission form.

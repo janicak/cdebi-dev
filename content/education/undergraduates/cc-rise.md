@@ -16,7 +16,7 @@ CC-RISE is an eight-week, paid, summer research internship program for community
 
 ## Application
 
-### Qualifications
+**Qualifications**
 
 *   Excited to do research (prior research experience not necessary)!
 *   Currently enrolled in a community college, planning to transfer to a 4-year university and major in a science discipline
@@ -24,20 +24,20 @@ CC-RISE is an eight-week, paid, summer research internship program for community
 *   Minimum 3.25 overall GPA
 *   Must be a US citizen or permanent resident
 
-### Instructions
+**Instructions**
 
-**CC-RISE at MBL**
+: **CC-RISE at MBL**
 
-* **Contact**: Dr. Gretta Serres, [mserres@mbl.edu](mailto:mserres@mbl.edu)
-* **Advertise**: [MBL CC-RISE 2016 Flyer](http://www.darkenergybiosphere.org/wp-content/uploads/docs/flyer_CC-RISE-MBL_2016_final.pdf)
-*   **Applications due**: March 18, 2016
-*   **Internship dates**: ~ June 20 – August 12, 2016 (exact dates TBD based on applicant availability)
+    * **Contact**: Dr. Gretta Serres, [mserres@mbl.edu](mailto:mserres@mbl.edu)
+    * **Advertise**: [MBL CC-RISE 2016 Flyer](http://www.darkenergybiosphere.org/wp-content/uploads/docs/flyer_CC-RISE-MBL_2016_final.pdf)
+    *   **Applications due**: March 18, 2016
+    *   **Internship dates**: ~ June 20 – August 12, 2016 (exact dates TBD based on applicant availability)
 
-**CC-RISE at UCSC**
+  **CC-RISE at UCSC**
 
-* **Contact**: Dr. Adina Paytan, [apaytan@ucsc.edu](mailto:apaytan@ucsc.edu)
-*  **Advertise**: [UCSC CC-RISE 2016 flyer](http://www.darkenergybiosphere.org/wp-content/uploads/docs/UCSC%20CC-RISE_flyer_2016.pdf)
-*   **Applications due**: March 18, 2016
-*   **Internship dates**: June 13 - August 5, 2015
+    * **Contact**: Dr. Adina Paytan, [apaytan@ucsc.edu](mailto:apaytan@ucsc.edu)
+    *  **Advertise**: [UCSC CC-RISE 2016 flyer](http://www.darkenergybiosphere.org/wp-content/uploads/docs/UCSC%20CC-RISE_flyer_2016.pdf)
+    *   **Applications due**: March 18, 2016
+    *   **Internship dates**: June 13 - August 5, 2015
 
-<dl><dt>Applications for the 2016 internships are now closed. We expect applications for the 2017 internships to open in November.</dl></dt>
+>Applications for the 2016 internships are now closed. We expect applications for the 2017 internships to open in November.

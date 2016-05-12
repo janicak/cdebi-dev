@@ -77,7 +77,9 @@ class Page extends Component {
 
           <div className={ styles.ColumnOne }>
 
-            <Scrollbars ref="Scrollbar1" onScrollStop={ this.handleScroll }>
+            <Scrollbars ref="Scrollbar1"
+              onScrollStop={ this.handleScroll } autohide="true"
+            >
 
               <SideNav
                 title={ metaTitle }
@@ -100,7 +102,6 @@ class Page extends Component {
                     <Footer />
                 </div>
                 <div className={ styles.MarginContent }>
-                  { "Placeholder margin content" }
                 </div>
               </div>
             </Scrollbars>

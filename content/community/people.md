@@ -7,7 +7,12 @@ route: community/people
 ## Personnel
 
 ==Include graphic, and if so, update to include senior scientists and rotators, link boxes to sections, or do something more interactive with the page?==
-<figure markdown="1">![](../assets/operations-fig1.jpg)<caption>**Figure 1.** Our management plan facilitates the achievement of the principal scientific, education, and diversity goals of C-DEBI. We maintain a simple hierarchy in the management structure (rectangles) with several advisory groups (ovals) to encourage communication and collaboration, as well as provide transparency in decision-making.</caption></figure>
+<figure>
+
+![](../../assets/operations-fig1.jpg)
+<caption>
+
+**Figure 1.** Our management plan facilitates the achievement of the principal scientific, education, and diversity goals of C-DEBI. We maintain a simple hierarchy in the management structure (rectangles) with several advisory groups (ovals) to encourage communication and collaboration, as well as provide transparency in decision-making.</caption></figure>
 
 ::: also
 See the [C-DEBI Operations Manual](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIOperationsManual_2015.pdf) for details on the roles of each member of our leadership
@@ -27,7 +32,7 @@ Directorship leads Center scientific, education, diversity, outreach, and admini
 
 ### Knowledge Transfer (KT) &amp; Data Management and Integration (DMI)
 
-==Not clear what "Knowledge Transfer" means here.==Knowledge Transfer is central to all of C-DEBI’s research, education, and outreach programs, and hence, it is the responsibility of all our senior personnel as well as the KT Director.
+==Not clear what "Knowledge Transfer" means here.== Knowledge Transfer is central to all of C-DEBI’s research, education, and outreach programs, and hence, it is the responsibility of all our senior personnel as well as the KT Director.
 
 The Data Management and Integration team has the primary objective ==Definitely a key *responsibility*, as mentioned later in the paragraph, but isn't the *objective* to enable cross-disciplinary data synthesis?==++to make C-DEBI data and products accessible to the world via a data portal++. The DMI Director also ensures that C-DEBI participants have access to the Center’s computational resources and/or bioinformatics expertise, as well as making certain C-DEBI generated data are properly deposited in public archives and databases.
 
@@ -47,7 +52,7 @@ Provides annual assessments of the science, education, mentoring, management, an
 
 ### Ethics Panel
 
-Advises ExCom on any issue pertaining to ethics, including concerns regarding administration, funding, and scientific conduct.  This Panel handles all C-DEBI ethics complaints==Since ethics reporting can be anonymous, should we be listing any reporting stats, even if zero, as this could be taken as pressure to not "break the record"?==++(none to date)++.
+Advises ExCom on any issue pertaining to ethics, including concerns regarding administration, funding, and scientific conduct.  This Panel handles all C-DEBI ethics complaints ==Since ethics reporting can be anonymous, should we be listing any reporting stats, even if zero, as this could be taken as pressure to not "break the record"?==++(none to date)++.
 
 <table class="list"><tbody><tr><td><img src="http://www.darkenergybiosphere.org/wp-content/uploads/2016/01/lloyd.jpg" alt="" /></td><td><a href="http://micro.utk.edu/faculty/lloyd.php">Karen Lloyd</a><br /> University of Tennessee, Knoxville</td><td>Ethics Panel Chair, Faculty Representative</td></tr><tr><td><img src="http://www.darkenergybiosphere.org/wp-content/uploads/2016/01/colwell.jpg" alt="" /></td><td><a href="http://ceoas.oregonstate.edu/profile/colwell/">Rick Colwell</a><br /> Oregon State University</td><td>Faculty Representative</td></tr><tr><td><img src="http://www.darkenergybiosphere.org/wp-content/uploads/2016/01/cooper.jpg" alt="" /></td><td><a href="http://www.ldeo.columbia.edu/user/scooper">Sharon Cooper</a><br /> Lamont-Doherty Earth Observatory</td><td>Education Representative</td></tr><tr><td><img src="http://www.darkenergybiosphere.org/wp-content/uploads/2016/01/fisher2cr.jpg" alt="" /></td><td><a href="http://eps.ucsc.edu/faculty/Profiles/singleton.php?&amp;singleton=true&amp;cruz_id=afisher">Andy Fisher</a><br /> University of California, Santa Cruz</td><td>ExCom Representative</td></tr><tr><td><img src="http://www.darkenergybiosphere.org/wp-content/uploads/2016/01/orsi.jpg" alt="" /></td><td><a href="http://www.en.palaeontologie.geowissenschaften.uni-muenchen.de/personen/professuren/altenbach1/index.html">Bill Orsi</a><br /> Ludwig Maximilian University of Munich</td><td>Early Faculty Representative</td></tr></tbody></table>
 

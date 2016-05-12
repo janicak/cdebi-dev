@@ -17,6 +17,4 @@ The BCO-DMO staff members have ocean science expertise and follow current data m
 For further information, please contact [John Heidelberg](mailto:jfheidelberg@gmail.com), C-DEBI Data Management and Integration Director.
 
 ---
-::: also
 See [NSF OCE Data and Sample Policy](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf11060)
-:::

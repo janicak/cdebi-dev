@@ -4,15 +4,17 @@ layout: Page
 route: education/grants
 ---
 
-??? Pre-emptivey re-named from "Education Small Grants Program" to match "Education & Outreach Grants Program" mentioned in call ???
+==Pre-emptivey re-named from "Education Small Grants Program" to match "Education & Outreach Grants Program" mentioned in call==
 
-## Call for Proposals (now closed)
+## Call for Proposals
 
-<dl><dt>This call is now closed. We expect our next call to be due in 2017.</dt></dl>
+>This call is now closed. We expect our next call to be due in 2017.
 
-[[PDF version of the 2016 C-DEBI E&O RFP](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIEducationRFP_2016.pdf)]
+::: also
+[PDF version of the 2016 C-DEBI E&O RFP](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIEducationRFP_2016.pdf)
+:::
 
-C-DEBI’s mission is to explore life beneath the seafloor and make transformative discoveries that advance science, benefit society, and inspire people of all ages and origins. Working toward that mission, our [education and outreach goals](overview.md) include creating ??? "distinctive, targeted" not really explained on overview page ??? ++distinctive, targeted++ education programs and promoting increased public awareness about life below the seafloor.
+C-DEBI’s mission is to explore life beneath the seafloor and make transformative discoveries that advance science, benefit society, and inspire people of all ages and origins. Working toward that mission, our [education and outreach goals](overview.md) include creating =="distinctive, targeted" not really explained on overview page== ++distinctive, targeted++ education programs and promoting increased public awareness about life below the seafloor.
 
 C-DEBI is pleased to announce the availability of grants to support education and outreach projects, with a budget of up to $50,000 and a project duration of 1 year. The C-DEBI Education & Outreach Grants Program will fund the development of educational opportunities and materials that are pertinent to deep biosphere research in the subseafloor environment.
 
@@ -50,14 +52,12 @@ Successful applications will address these topics:
 
 Please submit your proposal via our online submission form.
 
-_This call is now closed. We expect our next call to be due in 2017._
+>This call is now closed. We expect our next call to be due in 2017.
 
 ## Contact Information
 
 If you have any questions, please contact Stephanie Schroeder ([slschroe@usc.edu](mailto:stephanie.schroeder@usc.edu?subject=C-DEBI%20Education%20and%20Outreach%20Grant%20Application)), C-DEBI Education, Outreach, & Diversity Director
 
 ---
-::: also
-See our [Grants Programs FAQs](http://www.darkenergybiosphere.org/research-activities/research-support/grant-program-faqs/) to understand how C-DEBI proposals are reviewed~~ and more!~~  
+See our [Grants Programs FAQs](http://www.darkenergybiosphere.org/research-activities/research-support/grant-program-faqs/) to understand how C-DEBI proposals are reviewed ~~and more!~~  
 See [funded education and outreach projects](http://www.darkenergybiosphere.org/research-activities/funded-projects/funded-education-proposals/)
-:::

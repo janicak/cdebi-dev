@@ -4,7 +4,7 @@ layout: Page
 route: resources/ethics
 ---
 
-C-DEBI is committed to maintaining an environment that promotes high ethical standards in the conduct of research without inhibiting ++the++ productivity or creativity of persons involved ~~in research~~, regardless of ~~the~~ position or level of responsibility ~~of those involved~~. C-DEBI does not tolerate misconduct in any aspect of research and will deal with ++all complaints++ ~~misconduct associated with research~~ forthrightly~~,~~ in accordance with academic due process~~,~~ and ~~with respect for~~ practices commonly accepted within the scientific community.
+C-DEBI is committed to maintaining an environment that promotes high ethical standards in the conduct of research without inhibiting ++the++ productivity or creativity of persons involved ~~in research~~, regardless of ~~the~~ position or level of responsibility ~~of those involved~~. C-DEBI does not tolerate misconduct in any aspect of research and will deal with ++all complaints++ ~~misconduct associated with research~~ forthrightly ~~,~~ in accordance with academic due process ~~,~~ and ~~with respect for~~ practices commonly accepted within the scientific community.
 
 ## Ethics Training
 
@@ -23,15 +23,16 @@ Training modules include:
 ## Conflict of Interest (CoI) Definitions and Policies
 
 **Definition of Conflict of Interest:**
->The C-DEBI ExCom and Ethics Committee define a Conflict of Interest as occurring when "an individual has multiple financial, personal or professional interests or is involved in multiple activities, one of which could compromise, or have the appearance of compromising, the motivation for an act in another."
+
+: The C-DEBI ExCom and Ethics Committee define a Conflict of Interest as occurring when "an individual has multiple financial, personal or professional interests or is involved in multiple activities, one of which could compromise, or have the appearance of compromising, the motivation for an act in another."
 
 This definition is based on _perception_ or _potential_ for conflict, requiring that the STC operate with policies ~~that prevent a CoI, avoiding~~ ++preventing Conflicts of Interest to avoid++ the need for later redress or a loss of trust from the community at large.
 
 ::: also
 Additional information on Conflicts of Interest ~~on~~ ++for++ academic and research projects:
-[http://ooc.usc.edu/conflict-interest-research](http://ooc.usc.edu/conflict-interest-research)
-[http://nationalethicscenter.org](http://nationalethicscenter.org/)
-[http://coi.ucsf.edu/](http://coi.ucsf.edu/)
+[http://ooc.usc.edu/conflict-interest-research](http://ooc.usc.edu/conflict-interest-research)  
+[http://nationalethicscenter.org](http://nationalethicscenter.org/)  
+[http://coi.ucsf.edu/](http://coi.ucsf.edu/)  
 [http://ccnmtl.columbia.edu/projects/rcr/rcr_conflicts/foundation/](http://ccnmtl.columbia.edu/projects/rcr/rcr_conflicts/foundation/)
 :::
 

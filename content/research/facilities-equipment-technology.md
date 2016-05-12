@@ -71,16 +71,23 @@ Below we list each of the new developments through C-DEBI. Finished developments
 *   Syringe-based fluid samplers
 
 
-<div style="display: flex; flex-direction: column;" markdown="1">
+<div style="display: flex; flex-direction: column;">
 <div style="display: flex;">
-<div>A.<br>![](http://www.darkenergybiosphere.org/wp-content/uploads/tools_DEBI-Dot.jpg)
+<div>A.
+
+![](http://www.darkenergybiosphere.org/wp-content/uploads/tools_DEBI-Dot.jpg)
 </div>
-<div>B.<br>![](http://www.darkenergybiosphere.org/wp-content/uploads/tools_GeoMicrobe.jpg)
+<div>B.
+
+![](http://www.darkenergybiosphere.org/wp-content/uploads/tools_GeoMicrobe.jpg)
 </div>
-<div>C.<br>![](http://www.darkenergybiosphere.org/wp-content/uploads/tools_CORK-Lite.jpeg)
+<div>C.
+
+![](http://www.darkenergybiosphere.org/wp-content/uploads/tools_CORK-Lite.jpeg)
 </div>
 </div>
 <div>
+
 Various C-DEBI inventions at use at North Pond. **A.** DEBI-DOT before deployment, **B.** GeoMicrobe Sled at North Pond CORK 1383C, and **C.** Deployment of CORK-LITE at North Pond.
 </div>
 </div>
@@ -127,7 +134,4 @@ Here, we list additional partnerships (in alphabetical order) outside of our pri
 *   USC Wrigley Institute for Environmental Studies (WIES)
 
 ---
-
-::: also
 See [PDF document](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBI%20Shared%20Resources%20and%20Facilities.pdf) for more details
-:::

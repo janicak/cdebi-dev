@@ -24,7 +24,7 @@ C4 students will be part of a greater research community, the Center for Dark En
 
 ## Application
 
-### Qualifications
+**Qualifications**
 
 *   Excited to do research (no prior research experience necessary)!
 *   Currently enrolled in a community college, planning to transfer to a 4-year university and major in a science discipline
@@ -32,11 +32,9 @@ C4 students will be part of a greater research community, the Center for Dark En
 *   Minimum 3.25 Overall GPA
 *   Must be a US citizen or permanent resident
 
-### Instructions
+**Instructions**
 
-<dl><dt>Applications for the 2016 REU are now closed. We expect applications for the 2017 REU to open in November.</dl></dt>
+>Applications for the 2016 REU are now closed. We expect applications for the 2017 REU to open in November.
 
 ---
-::: also
 Direct questions to Dr. Stephanie Schroeder ([slschroe@usc.edu](mailto:slschroe@usc.edu)), C-DEBI Education, Outreach, & Diversity Director
-:::

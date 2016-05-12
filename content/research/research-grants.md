@@ -4,9 +4,9 @@ layout: Page
 route: research/grants
 ---
 
-## Call for Proposals (now closed)
+## Call for Proposals
 
-<dl><dt>This call is now closed. We expect our next call to be due in 2017.</dt></dl>
+>This call is now closed. We expect our next call to be due in 2017.
 
 [DOC version of the 2016 C-DEBI Research RFP **WITH WORDING UPDATES**](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIResearchRFP_2016b.docx)
 
@@ -44,7 +44,7 @@ Applicants are encouraged to see which [research projects](http://www.darkenergy
 
 Applicants who wish to use samples or data from IODP expeditions or C-DEBI field programs must ensure that their proposed projects do not conflict with existing expedition-related projects (e.g., shipboard scientists’ projects). In cases where samples from field programs are needed, applicants should resolve this issue by contacting expedition leaders and shipboard scientists, to secure agreement to provide samples, before submitting a proposal to C-DEBI.
 
-<dl><dt>Receiving research support from C-DEBI does not guarantee access to samples or data that are not available to the community at large.</dt></dl>
+>Receiving research support from C-DEBI does not guarantee access to samples or data that are not available to the community at large.
 
 For example, there is a moratorium period of one year for members of and IODP expedition science party to conduct drilling project-related research before core samples and data are made available to the general scientific community. Applicants for C-DEBI support are responsible for securing access to all samples and data needed to complete proposed work, and should provide evidence of access to the samples in the proposal. If working with IODP samples and/or data, Small Grant applicants should complete our [IODP Sample and Data Access Form](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBI_IODP%20Sample%20and%20Data%20Access%20Form.docx).
 
@@ -54,7 +54,7 @@ For the IODP Sample, Data and Obligations Policy and other sample and data acces
 
 ## Application and Submission
 
-<dl><dt>This call is now closed. We expect our next call to be due in 2017.</dt></dl>
+>This call is now closed. We expect our next call to be due in 2017.
 
 __Research proposals__ should include:
 
@@ -100,6 +100,4 @@ Please see the detailed [Grants Programs FAQs](grant-programs-faq.md) to learn h
 **Questions regarding proposal submissions can be addressed to:** Rosalynn Sylvan ([rosalyyl@usc.edu](mailto:rosalyyl@usc.edu)), C-DEBI Managing Director
 
 ---
-::: also
 See [Funded Research Projects](http://www.darkenergybiosphere.org/research-activities/funded-projects/) and the [Grants Programs FAQs](grant-programs-faq.md)
-:::

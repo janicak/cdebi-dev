@@ -4,7 +4,7 @@ layout: Page
 route: education/undergraduates/ggure
 ---
 
-??? Could have more details ???
+==Could have more details==
 
 ## Internship Description
 

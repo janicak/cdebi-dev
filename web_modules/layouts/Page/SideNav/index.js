@@ -6,7 +6,7 @@ import SearchBar from "../../../SearchBar"
 
 export default class SideNav extends Component {
   render() {
-    const { title, toc, className } = this.props
+    const { title, className } = this.props
     const pageOrder = this.context.metadata.pageOrder
     const pages = enhanceCollection(this.context.collection, {
       filter: { layout: "Page" },
@@ -28,16 +28,13 @@ export default class SideNav extends Component {
         if (item.title === title) {
           return (
             <li key={ item.__url }
-              className="pure-menu-item pure-menu-has-children"
+              className="pure-menu-item pure-menu-selected"
             >
               <a href="#" onClick={ handleTitleClick }
                 className="pure-menu-link"
               >
                 { item.title }
               </a>
-              <ul dangerouslySetInnerHTML={ { __html: toc } }
-                className="pure-menu-children"
-              ></ul>
             </li>
           )
         }

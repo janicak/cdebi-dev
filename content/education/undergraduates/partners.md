@@ -4,7 +4,7 @@ layout: Page
 route: education/undergraduates/partners
 ---
 
-??? Any updates to this section? ???
+==Any updates to this section?==
 
 ## Institutional Internships & Funding
 
@@ -27,5 +27,5 @@ route: education/undergraduates/partners
 
 ## Professional Networking
 
-**[The Society for the Advancement of Chicanos and Native Americans in Science (SACNAS)](http://sacnas.org/)**
+**[The Society for the Advancement of Chicanos and Native Americans in Science (SACNAS)](http://sacnas.org/)**  
 SACNAS is an inclusive, interdisciplinary and grass-roots driven professional organization for anyone seeking a career in a STEM (Science, Technology, Engineering, and Mathematics) field. Through mentorship and scholarship, SACNAS networks students and established professionals to diversify STEM fields, medical fields and the social sciences. C-DEBI fosters the mission of the [University of Southern California SACNAS Chapter](http://dornsife.usc.edu/sacnas/) through support of activities and participation in the SACNAS National Conference.

@@ -9,6 +9,4 @@ route: community/mailing-list
 The mailing list is also used for occasional event announcements and requests for proposals.
 
 ---
-::: also
 See [Newsletter Archives](http://www.darkenergybiosphere.org/newsletters/)
-:::

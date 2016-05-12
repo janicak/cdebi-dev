@@ -27,10 +27,9 @@ Key research components in Theme 1 include multidisciplinary exploration, collec
 
 >**(1.1)** &nbsp;Constrain the extent, variability, and controls on fluxes and connectivity within subseafloor biomes and between the subseafloor and the overlying ocean
 >
-**(1.2)**	&nbsp;Map the geochemical energy sources in subseafloor ecosystems at a range of spatial scales
+>**(1.2)**	&nbsp;Map the geochemical energy sources in subseafloor ecosystems at a range of spatial scales
 >
-**(1.3)**	&nbsp;Develop and test the next generation of coupled geochemical-hydrological-microbial models for subseafloor ecosystems
-
+>**(1.3)**	&nbsp;Develop and test the next generation of coupled geochemical-hydrological-microbial models for subseafloor ecosystems
 
 
 ## Theme 2: Activities, Communities, and Ecosystems
@@ -46,9 +45,9 @@ Field work, _in situ_ activity measurements, stable isotope probing, and various
 
 >**(2.1)** &nbsp;Determine community composition, functional potential, and patterns of natural selection in subseafloor ecosystems
 >
-**(2.2)** &nbsp;Determine metabolic activity of subseafloor microbial communities
+>**(2.2)** &nbsp;Determine metabolic activity of subseafloor microbial communities
 >
-**(2.3)** &nbsp;Advance understanding of subseafloor microbe-virus interactions
+>**(2.3)** &nbsp;Advance understanding of subseafloor microbe-virus interactions
 
 ## Theme 3: Metabolism, Survival, and Adaptation
 
@@ -62,11 +61,9 @@ Theme 3 builds on and complements the large and growing database of microbial co
 
 >**(3.1)** &nbsp;Isolate and characterize novel bacteria and archaea from diverse subseafloor habitats.
 >
-**(3.2)** &nbsp;Examine fundamental physiology of subseafloor microbes under conditions of low growth rates and low energy flux.
+>**(3.2)** &nbsp;Examine fundamental physiology of subseafloor microbes under conditions of low growth rates and low energy flux.
 >
-**(3.3)** &nbsp;Perform adaptive evolution and long-term survival experiments with subseafloor microbes to characterize molecular genetic signatures associated with particular phenotypes.
+>**(3.3)** &nbsp;Perform adaptive evolution and long-term survival experiments with subseafloor microbes to characterize molecular genetic signatures associated with particular phenotypes.
 
 ---
-::: also
 For more information about our Research Themes, see the [C-DEBI renewal proposal](http://www.darkenergybiosphere.org/wp-content/uploads/docs/2014C-DEBI_RenewalProposal.pdf)
-:::
