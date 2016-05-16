@@ -27,7 +27,6 @@ class SearchBar extends Component {
         >
           <input
             placeholder="Search..."
-            className="pure-input-rounded"
             value={ this.state.term }
             onChange={ this.handleInputChange }
           />

@@ -1,0 +1,38 @@
+.identity {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  padding-right: calc(1rem + 6px);
+  text-decoration: none;
+}
+
+.logo {
+  width: 3rem;
+  height: 3rem;
+  flex-grow: 0;
+  margin-right: 0.5rem;
+  svg {
+    width: 3rem;
+    height: 3rem;
+    circle {
+      stroke-width: 1.5px;
+    }
+    path:nth-of-type(6) {
+      /* fill: rgba(0, 0, 0, 0.8);
+      stroke: rgba(0, 0, 0, 0.8); */
+    }
+  }
+}
+
+.title {
+  flex-grow: 1;
+  font-weight: 400;
+  font-family: "Open Sans";
+  color: white;
+  text-transform: uppercase;
+  font-size: calc(1rem / 1.2);
+}
+
+.header {
+  background-color: rgb(88, 88, 88);
+}

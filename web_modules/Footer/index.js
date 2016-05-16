@@ -34,7 +34,7 @@ export default class Footer extends Component {
         <br />
         <Link
           className={ styles.link }
-          to="/contact"
+          to="/support"
         >
           { "SUPPORT C-DEBI TODAY" }
         </Link>

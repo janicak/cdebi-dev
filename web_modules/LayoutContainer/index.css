@@ -88,9 +88,9 @@ hr {
   margin-bottom: 2rem !important;
 }
 
-/* C-DEBI Custom global */
 :--headings {
   font-family: "Open Sans";
+  color: #6b6b6b;
 }
 
 @font-face {
@@ -119,6 +119,8 @@ hr {
 :global .mega-octicon { font-size: 32px; }
 
 :global .octicon-link::before { content: '\f05c'; }
+
+:global .octicon-three-bars::before { content: '\f05e'; }
 
 mark {
   margin-bottom: 24px;

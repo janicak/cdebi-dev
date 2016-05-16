@@ -1,8 +1,10 @@
 import React, { Component, PropTypes } from "react"
+import { Link } from "react-router"
 import Helmet from "react-helmet"
 import invariant from "invariant"
 import { joinUri } from "phenomic"
 import { Scrollbars } from "react-custom-scrollbars"
+import classNames from "classnames"
 
 import Footer from "../../Footer"
 
@@ -16,6 +18,10 @@ class Page extends Component {
   constructor(props) {
     super(props)
     this.handleScroll = this.handleScroll.bind(this)
+    this.handleClick = this.handleClick.bind(this)
+    this.state = {
+      shift: false,
+    }
   }
   componentDidMount() {
     if (localStorage.scroll1pos) {
@@ -25,6 +31,10 @@ class Page extends Component {
   handleScroll() {
     localStorage.scroll1pos = this.refs.Scrollbar1.getScrollTop()
     localStorage.scroll2pos = this.refs.Scrollbar2.getScrollTop()
+  }
+  handleClick() {
+    const shift = this.state.shift
+    this.setState({ shift: !shift })
   }
   render() {
     const { props, context } = this
@@ -73,7 +83,9 @@ class Page extends Component {
           meta={ meta }
         />
 
-        <div className={ styles.Container } >
+      <div className={ classNames(styles.Container,
+        { shift: this.state.shift }) }
+      >
 
           <div className={ styles.ColumnOne }>
 
@@ -91,17 +103,23 @@ class Page extends Component {
 
           <div className={ styles.ColumnTwo }>
             <Scrollbars ref="Scrollbar2" onScroll={ this.handleScroll } >
+              <div className={ styles.NavTop }>
+                <span className="mega-octicon octicon-three-bars"
+                  onClick={ this.handleClick }
+                ></span>
+                <Link to="/">{ "C-DEBI" }</Link>
+              </div>
               <div className={ styles.PageContainer } id="page">
-                <div className={ styles.MainContent }>
-                    { head.title && <h1> { head.title } </h1> }
-                    { header }
-                    { body &&
-                      <div dangerouslySetInnerHTML={ { __html: body } } /> }
-                    { props.children }
-                    { footer }
-                    <Footer />
-                </div>
-                <div className={ styles.MarginContent }>
+                <div className={ styles.Page } >
+                  <div className={ styles.MainContent }>
+                      { head.title && <h1> { head.title } </h1> }
+                      { header }
+                      { body &&
+                        <div dangerouslySetInnerHTML={ { __html: body } } /> }
+                      { props.children }
+                      { footer }
+                      <Footer />
+                  </div>
                 </div>
               </div>
             </Scrollbars>

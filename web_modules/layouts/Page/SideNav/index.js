@@ -1,11 +1,19 @@
 import React, { Component, PropTypes } from "react"
+import { Link } from "react-router"
 import enhanceCollection from "phenomic/lib/enhance-collection"
 import _ from "lodash"
+import Isvg from "react-inlinesvg"
 
+import styles from "./index.css"
 import SearchBar from "../../../SearchBar"
 
 export default class SideNav extends Component {
+
   render() {
+    const baseHref = this.context.router.createHref("/")
+    const { protocol, host } = window.location
+    const baseUrl = `${protocol}//${host}${baseHref}`
+
     const { title, className } = this.props
     const pageOrder = this.context.metadata.pageOrder
     const pages = enhanceCollection(this.context.collection, {
@@ -67,7 +75,21 @@ export default class SideNav extends Component {
     })
     return (
       <div className={ className }>
-        <SearchBar />
+        <div className={ styles.header }>
+          <Link to="/" className={ styles.identity }>
+            <Isvg src={ `${baseUrl}assets/C-DEBI_logo.svg` }
+              className={ styles.logo }
+            >
+              <img src={ `${baseUrl}assets/C-DEBI_logo.svg` }
+                className={ styles.logo }
+              />
+            </Isvg>
+            <div className={ styles.title }>
+              { "Center for Dark Energy Biosphere Investigations" }
+            </div>
+          </Link>
+          <SearchBar />
+        </div>
         <div className="pure-menu">
           <ul className="pure-menu-list">
             { menu }
@@ -87,4 +109,5 @@ SideNav.propTypes = {
 SideNav.contextTypes = {
   collection: PropTypes.array.isRequired,
   metadata: PropTypes.object,
+  router: PropTypes.object,
 }

@@ -92,6 +92,7 @@
     "react": "^0.14.0 || ^15.0.0-rc.1",
     "react-dom": "^0.14.0 || ^15.0.0-rc.1",
     "react-helmet": "^3.0.0",
+    "react-inlinesvg": "^0.4.2",
     "react-redux": "^4.0.0",
     "react-router": "^2.2.2",
     "react-svg-inline": "^1.1.0",
