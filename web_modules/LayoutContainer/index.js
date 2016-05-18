@@ -33,8 +33,6 @@ export default class Layout extends Component {
           ] }
           script={ [
             { src: "https://cdn.polyfill.io/v2/polyfill.min.js" },
-            { src: "https://use.typekit.net/wdw6szy.js" },
-            { innerHTML: "try{Typekit.load({ async: true });}catch(e){}" },
           ] }
           link={ [
             {

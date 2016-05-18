@@ -11,8 +11,12 @@ export default class SideNav extends Component {
 
   render() {
     const baseHref = this.context.router.createHref("/")
-    const { protocol, host } = window.location
-    const baseUrl = `${protocol}//${host}${baseHref}`
+    let baseUrl = ""
+
+    if (typeof window != "undefined") {
+      const { protocol, host } = window.location
+      baseUrl = `${protocol}//${host}${baseHref}`
+    }
 
     const { title, className } = this.props
     const pageOrder = this.context.metadata.pageOrder
@@ -62,7 +66,7 @@ export default class SideNav extends Component {
           <li key={ obj.section }
             className="pure-menu-heading pure-menu-has-children"
           >
-              { obj.section }
+              <span>{ obj.section }</span>
               <ul className="pure-menu-children">
                 { children }
               </ul>

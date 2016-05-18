@@ -12,6 +12,8 @@ import markdownItSup from "markdown-it-sup"
 import markdownItDeflist from "markdown-it-deflist"
 import markdownItIns from "markdown-it-ins"
 import markdownItMark from "markdown-it-mark"
+import markdownItAttrs from "markdown-it-attrs"
+import markdownItFigCaption from "mdfigcaption"
 
 // note that this webpack file is exporting a "makeConfig" function
 // which is used for phenomic to build dynamic configuration based on your needs
@@ -104,9 +106,10 @@ export const makeConfig = (config = {}) => {
             .use(markdownItSub)
             .use(markdownItSup)
             .use(markdownItDeflist)
-            .use(require("markdown-it-container"), "also")
             .use(markdownItIns)
             .use(markdownItMark)
+            .use(markdownItAttrs)
+            .use(markdownItFigCaption)
             .render(text)
         ),
         feedsOptions: {

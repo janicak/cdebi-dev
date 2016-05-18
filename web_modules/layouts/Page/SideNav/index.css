@@ -1,3 +1,7 @@
+:root {
+  --heading-family: "Open Sans";
+}
+
 .identity {
   display: flex;
   align-items: center;
@@ -17,22 +21,19 @@
     circle {
       stroke-width: 1.5px;
     }
-    path:nth-of-type(6) {
-      /* fill: rgba(0, 0, 0, 0.8);
-      stroke: rgba(0, 0, 0, 0.8); */
-    }
   }
 }
 
 .title {
   flex-grow: 1;
-  font-weight: 400;
-  font-family: "Open Sans";
-  color: white;
+  font-weight: 600;
+  font-family: var(--heading-family);
   text-transform: uppercase;
   font-size: calc(1rem / 1.2);
+  line-height: 1.2;
+  color: black;
 }
 
 .header {
-  background-color: rgb(88, 88, 88);
+  /* background-color: rgb(88, 88, 88); */
 }

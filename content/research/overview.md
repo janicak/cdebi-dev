@@ -26,10 +26,9 @@ We will create knowledge of those traits of microbial life that are distinctive 
 
 Answers to these questions will provide, for the first time, a foundational understanding of the molecular and physiological features of subseafloor life, using C-DEBI's Phase II Research Themes as a framework.
 
-::: also
-See [Research Themes](themes)  
-See [Field Sites](field-sites)
-:::
+[Research Themes](themes){.also}
+[Field Sites](field-sites){.also}
+
 
 ## Research Support
 C-DEBI is the community-initiated means of providing the collaborative framework and support that we believe is needed for new research projects to be developed in the deep subsurface biosphere.

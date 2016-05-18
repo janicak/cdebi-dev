@@ -6,3 +6,6 @@ node_modules
 dist
 *.bundle.js
 scripts/deploy.sh
+
+.DS_Store
+content/.DS_Store

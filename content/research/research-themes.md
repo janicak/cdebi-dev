@@ -65,5 +65,4 @@ Theme 3 builds on and complements the large and growing database of microbial co
 >
 >**(3.3)** &nbsp;Perform adaptive evolution and long-term survival experiments with subseafloor microbes to characterize molecular genetic signatures associated with particular phenotypes.
 
----
 For more information about our Research Themes, see the [C-DEBI renewal proposal](http://www.darkenergybiosphere.org/wp-content/uploads/docs/2014C-DEBI_RenewalProposal.pdf)

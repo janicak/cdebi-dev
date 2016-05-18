@@ -31,6 +31,7 @@ class Page extends Component {
   handleScroll() {
     localStorage.scroll1pos = this.refs.Scrollbar1.getScrollTop()
     localStorage.scroll2pos = this.refs.Scrollbar2.getScrollTop()
+    console.log(this.refs.Scrollbar1)
   }
   handleClick() {
     const shift = this.state.shift
@@ -90,7 +91,7 @@ class Page extends Component {
           <div className={ styles.ColumnOne }>
 
             <Scrollbars ref="Scrollbar1"
-              onScrollStop={ this.handleScroll } autohide="true"
+              onScrollStop={ this.handleScroll } autoHide
             >
 
               <SideNav
