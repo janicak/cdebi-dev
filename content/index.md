@@ -1,6 +1,7 @@
 ---
 title: Introduction
 layout: Page
+header-img: assets/introduction-background.jpg
 ---
 
 ## Our Mission

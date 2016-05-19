@@ -5,16 +5,25 @@ import invariant from "invariant"
 import { joinUri } from "phenomic"
 import { Scrollbars } from "react-custom-scrollbars"
 import classNames from "classnames"
+import _ from "lodash"
 
 import Footer from "../../Footer"
 
 import styles from "./index.css"
 import SideNav from "./SideNav"
-// import tocHelper from "./SideNav/toc"
+
+import LightBox from "../../vendor/lightbox"
+import "../../../legacy-css/lightbox.css"
 
 /* eslint react/no-string-refs: 0 */
 
 class Page extends Component {
+
+  static contextTypes = {
+    metadata: PropTypes.object.isRequired,
+    router: PropTypes.func.isRequred,
+  }
+
   constructor(props) {
     super(props)
     this.handleScroll = this.handleScroll.bind(this)
@@ -24,14 +33,39 @@ class Page extends Component {
     }
   }
   componentDidMount() {
-    if (localStorage.scroll1pos) {
+    /* if (localStorage.scroll1pos) {
       this.refs.Scrollbar1.scrollTop(localStorage.scroll1pos)
+    } */
+    this.interval = window.setTimeout(this.loadLightboxes,50)
+  }
+  shouldComponentUpdate() {
+    return true
+  }
+  componentDidUpdate() {
+    this.interval = window.setTimeout(this.loadLightboxes,50)
+  }
+  loadLightboxes() {
+    const arr = document.getElementsByTagName("img")
+    for (let i = 0; i < arr.length; i++) {
+      if (_.has(arr[i].attributes, "data-jslghtbx")) {
+        const lightbox = new LightBox()
+        lightbox.load()
+        break
+      }
     }
   }
+  /* componentWillReceiveProps() {
+    console.log("I received props")
+  }
+  shouldComponentUpdate() {
+    console.log("I should update")
+  }
+  componentDidUpdate() {
+    console.log("I done updated")
+  } */
   handleScroll() {
-    localStorage.scroll1pos = this.refs.Scrollbar1.getScrollTop()
-    localStorage.scroll2pos = this.refs.Scrollbar2.getScrollTop()
-    console.log(this.refs.Scrollbar1)
+    /* localStorage.scroll1pos = this.refs.Scrollbar1.getScrollTop()
+    localStorage.scroll2pos = this.refs.Scrollbar2.getScrollTop() */
   }
   handleClick() {
     const shift = this.state.shift
@@ -39,6 +73,14 @@ class Page extends Component {
   }
   render() {
     const { props, context } = this
+
+    const baseHref = this.context.router.createHref("/")
+    let baseUrl = ""
+
+    if (typeof window != "undefined") {
+      const { protocol, host } = window.location
+      baseUrl = `${protocol}//${host}${baseHref}`
+    }
 
     const {
       pkg,
@@ -111,9 +153,18 @@ class Page extends Component {
                 <Link to="/">{ "C-DEBI" }</Link>
               </div>
               <div className={ styles.PageContainer } id="page">
+                <div className={ classNames(styles.TitleArea,
+                    { "LightTitle": head["header-img"] }
+                    ) }
+                  style={ (head["header-img"]) ? {
+                    backgroundImage:
+                    "url(" + baseUrl + head["header-img"] + ")",
+                  }: {} }
+                >
+                  { head.title && <h1> { head.title } </h1> }
+                </div>
                 <div className={ styles.Page } >
                   <div className={ styles.MainContent }>
-                      { head.title && <h1> { head.title } </h1> }
                       { header }
                       { body &&
                         <div dangerouslySetInnerHTML={ { __html: body } } /> }
@@ -140,10 +191,6 @@ Page.propTypes = {
   body: PropTypes.string.isRequired,
   header: PropTypes.element,
   footer: PropTypes.element,
-}
-
-Page.contextTypes = {
-  metadata: PropTypes.object.isRequired,
 }
 
 export default Page

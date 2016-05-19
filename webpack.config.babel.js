@@ -13,7 +13,7 @@ import markdownItDeflist from "markdown-it-deflist"
 import markdownItIns from "markdown-it-ins"
 import markdownItMark from "markdown-it-mark"
 import markdownItAttrs from "markdown-it-attrs"
-import markdownItFigCaption from "mdfigcaption"
+import markdownItFigCaption from "./scripts/markdown-it.figcaption.extra"
 
 // note that this webpack file is exporting a "makeConfig" function
 // which is used for phenomic to build dynamic configuration based on your needs
@@ -56,6 +56,7 @@ export const makeConfig = (config = {}) => {
         },
         {
           test: /\.css$/,
+          exclude: path.resolve(__dirname, "legacy-css"),
           loader: ExtractTextPlugin.extract(
             "style-loader",
             "css-loader" + (
@@ -69,6 +70,18 @@ export const makeConfig = (config = {}) => {
             ) + "!" +
             "postcss-loader",
           ),
+          include: path.resolve(__dirname, "web_modules"),
+        },
+        {
+          test: /legacy-css(\/|\\).*\.css$/,
+          loader: ExtractTextPlugin.extract(
+            "style-loader",
+          [
+            "css-loader",
+            "postcss-loader",
+          ].join("!"),
+          ),
+          include: path.resolve(__dirname, "legacy-css"),
         },
         {
           test: /\.(html|ico|jpe?g|png|gif)$/,

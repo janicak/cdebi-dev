@@ -4,14 +4,10 @@ layout: Page
 route: research/field-sites
 ---
 
-==Pre-emptively renamed from "Major Field Sites" to "Field Sites"==
-
 When C-DEBI was first proposed as a NSF-sponsored Science and Technology Center (STC), three field site based programs formed the core of C-DEBI scientific and technical activities: Juan de Fuca Ridge Flank, North Pond, and South Pacific Gyre. Each of these "Major Programs" has completed primary drilling and associated operations, although site visits, observatory servicing, laboratory analyses, and modeling related to these sites will continue for some years. The major field sites designated in Phase 1 of C-DEBI feature characteristics along a continuum of field habitats based on hydrothermal vigor, basement age, and thermal state.
 
-==Update graphic with additional sites? Consolidate graphic with bullet list as infographic? Fill in Dorado bullet list?==
-
-<div style="display: flex; flex-direction: row; justify-content: start; align-items: center;">
-<figcaption style="flex-grow: 0; max-width: 50%;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+<figcaption style="max-width: 50%;">
 
 [Juan de Fuca](#eastern-flank-of-the-juan-de-fuca-jdf-ridge)
 
@@ -37,13 +33,12 @@ When C-DEBI was first proposed as a NSF-sponsored Science and Technology Center 
 [Dorado Outcrop](#dorado-outcrop-do)
 
 </figcaption>
-<div style="flex-grow: 1; padding-left: 1rem;">
+<div style="padding-left: 2rem;">
 <img src="../../assets/majorFourSites.png" alt="" style="width: 200px;" />
-<figcaption>Modified from 2010 McClatchy Tribune Graphic by Hulteng/Treible</figcaption>
+<figcaption style="width: 200px;">Modified from 2010 McClatchy Tribune Graphic by Hulteng/Treible</figcaption>
 </div>
 </div>
 
-==Some mention of non-major sites warranted?==
 These major field sites are poised to make significant contributions towards achieving fundamental C-DEBI objectives. These programs are funded and/or scheduled for operations, mainly with support external to the Center. These programs use C-DEBI resources to leverage other funding and opportunities.
 
 ## Eastern Flank of the Juan de Fuca (JdF) Ridge
@@ -54,11 +49,9 @@ These major field sites are poised to make significant contributions towards ach
 
 ### Background
 
-==The text here, as with the other programs, was lifted directly from the Annual Report. Should the writing be pitched differently for the website - and shorter if we're going to be including additional field sites?==
-
-==In the overview paragraph, "Major Programs" was in quotes - are we still referring to major programs?== The Juan de Fuca Ridge flank ++major program++ is exploring the nature of linked hydrogeologic, geochemical, and microbiological conditions and processes in a region that is the best understood example of ridge-flank hydrothermal circulation on the planet. In this setting, a volcanic crustal aquifer contains highly altered (suboxic to anoxic), warm (64 °C) hydrothermal fluids that are isolated from the overlying ocean in most locations by hundreds of meters of hemipelagic sediment and turbidites. Projects using data and field samples from this region have included two IODP expeditions (301 and 327); long-term borehole observatories (CORKs) used for testing, monitoring and sampling; and numerous non-drilling oceanographic expeditions using oceanographic ships and submersibles/ROVs, laboratory studies using materials and associated microbial cultures, and theoretical and computational experiments. Tools and methods developed for the JdF program have been adapted and applied at other sites, including other C-DEBI major program locations.
-
 ~[Index map showing the location of Expedition 327 primary drill sites, in the Second Ridge (SR) area, about 100 km east of the Juan de Fuca Ridge. A secondary target for Expedition 327 operations was adjacent to Grizzly Bare (GRB) outcrop, where regional hydrothermal fluids are thought to recharge the oceanic crustal aquifer.](../../assets/JDFa.jpg)
+
+The Juan de Fuca Ridge flank ++major program++ is exploring the nature of linked hydrogeologic, geochemical, and microbiological conditions and processes in a region that is the best understood example of ridge-flank hydrothermal circulation on the planet. In this setting, a volcanic crustal aquifer contains highly altered (suboxic to anoxic), warm (64 °C) hydrothermal fluids that are isolated from the overlying ocean in most locations by hundreds of meters of hemipelagic sediment and turbidites. Projects using data and field samples from this region have included two IODP expeditions (301 and 327); long-term borehole observatories (CORKs) used for testing, monitoring and sampling; and numerous non-drilling oceanographic expeditions using oceanographic ships and submersibles/ROVs, laboratory studies using materials and associated microbial cultures, and theoretical and computational experiments. Tools and methods developed for the JdF program have been adapted and applied at other sites, including other C-DEBI major program locations.
 
 The JdF major program has contributed to training of numerous graduate and undergraduate students and other junior researchers, including those who add diversity to the STEM pipeline; has linked researchers and students from across the US and around the world, who work on common technical and scientific goals; and has comprised the basis for several successful education and outreach programs to the K-12 community and the public at large.
 
@@ -70,22 +63,15 @@ More specifically, the JdF major program has explored these and related question
 
 Answering these and related questions will help to achieve goals important to Phase 2 of C-DEBI, within all three of the new program themes (Connectivity and Fluxes, Activities and Communities, Metabolism and Survival).
 
-==These last two paragraphs feel like they should come before the bulleted questions and Phase 2 summary.==
-
 The JdF major program emphasizes a ridge-flank hydrothermal system that represents an important end-member in terms of crustal temperature, redox state, and through-put of fluids (and associated solutes, inoculum, etc). Results from this area are especially important in comparison to results derived from the NP and DO major programs. The latter is a system operating at much cooler and more oxic conditions, which may be characteristic of a large fraction of young and well-ventilated volcanic crust, whereas JdF is more typical in many ways of older sites where there is much more limited exposure of permeable basement rocks to the overlying ocean.
-
-The JdF major program is also distinct for being the first at which controlled, cross-hole experiments have been completed, including the first tracer-injection experiment in the ocean crust. In addition, the JdF studies have produced the longest time-series records of subseafloor conditions, including high-quality and large-volume subseafloor samples collected from multiple boreholes and depths.
 
 ~[Perspective diagram showing relative locations of drill holes, each of which contain a long-term, subseafloor observatory (CORK), as used for cross-hole pressure testing and a tracer injection experiment. The color contours in this figure indicate depth to the top of basement, which contains the primary hydrothermal aquifer. Original image courtesy J. Cowen, University of Hawaii.](../../assets/JDFb.jpg)
 
-
-==As with the other sections, I replaced recent accomplishments, which feels like more of a report than a web page, and for the sake of brevity, with a link to the most recent annual report. Should these links be to all annual reports, and/or should the reports be split into smaller PDFs?==
+The JdF major program is also distinct for being the first at which controlled, cross-hole experiments have been completed, including the first tracer-injection experiment in the ocean crust. In addition, the JdF studies have produced the longest time-series records of subseafloor conditions, including high-quality and large-volume subseafloor samples collected from multiple boreholes and depths.
 
 For a summary of recent accomplishments, see the [2015 C-DEBI Annual Report](http://www.darkenergybiosphere.org/wp-content/uploads/docs/2015C-DEBIAnnualReport_forweb.pdf)
 
 >### Juan de Fuca Ridge Expedition History
->
->==Given that this page is mean primarily for narrative, should these cruise reports be moved to a section under 'Resources'?==
 >
 >June 15 - July 1, 2010  
 [UNOLS Expedition: *Microbial ecology of ocean basement aquifers: ODP borehole observatories* ](http://strs.unols.org/Public/diu_cruise_view.aspx?cruise_id=120638)  
@@ -106,8 +92,6 @@ For a summary of recent accomplishments, see the [2015 C-DEBI Annual Report](htt
 >August 10-24, 2014  
 >[UNOLS Expedition AT 26-18 RV Atlantis/ROV Alvin: *Completing single- and cross-hole hydrogeologic and microbial experiments: Juan de Fuca Flank*](http://www.darkenergybiosphere.org/wp-content/uploads/docs/AT26-18%20JFR%20Cork%20Recovery%20Cruise%20Report%20reduced.pdf))  
 >**Chief scientist:** Geoff Wheat
-
-==Cruise updates?==
 
 [Juan de Fuca IODP Drilling Proposal](http://www.darkenergybiosphere.org/wp-content/uploads/docs/IODP_JdF-Fisher.pdf){.also}
 

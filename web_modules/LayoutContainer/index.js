@@ -37,11 +37,7 @@ export default class Layout extends Component {
           link={ [
             {
               rel: "stylesheet",
-              /* eslint-disable */
               href: "http://yui.yahooapis.com/pure/0.6.0/pure-min.css",
-              // integrity: "sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd",
-              /*eslint-enable */
-              // crossorigin: "anonymous",
             },
           ] }
         />

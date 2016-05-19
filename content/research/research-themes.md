@@ -18,6 +18,8 @@ While feedback loops between themes are evident throughout, the order in which t
 
 _— centering on subseafloor environmental conditions_
 
+~[&nbsp;](../../assets/theme-1-fig.png)
+
 In Phase 1, C-DEBI researchers described the hydrologic, geochemical, and microbial connectivity within the crust on a kilometer scale; quantified the transfer and fate of solutes between the ocean, sediment, and subseafloor basalt; and located and sampled the first known site of massive, low-temperature hydrothermal discharge on a ridge flank. C-DEBI researchers were also the first to quantify energy yields of metabolic reactions and redox fluxes in deep sediment.
 
 In Phase 2, we will build on these achievements and focus on processes that control the movement of mass, heat, solutes, genetic material, and microbial cells within the deep subseafloor, and between this realm and the overlying ocean. We will also investigate the composition and distribution of electron acceptors, electron donors, and organic matter at new sites to evaluate in situ geochemical energy sources for microbial metabolism. Studies will test interpretations and hypotheses put forth in Phase 1 that often relied on sparse data. This scaling up by expanding existing and integrating new datasets, will allow us to generate regional and global maps and models of the subseafloor geochemistry and hydrology, and place potential microbial metabolisms in a broader context.
@@ -36,6 +38,8 @@ Key research components in Theme 1 include multidisciplinary exploration, collec
 
 _— emphasizing resident microbial communities_
 
+~[&nbsp;](../../assets/theme-2-fig.png)
+
 In Phase 1, C-DEBI researchers a) determined microbial community composition in samples from several subseafloor environments, b) undertook some of the first studies of metabolic potential in subseafloor ecosystems, c) carried out the first transcriptomic study of a subseafloor ecosystem, and d) quantified energy yields of metabolic reactions and redox fluxes in deep subseafloor systems.
 
 In Phase 2, we will build on these results to understand community structure and its drivers in subseafloor ecosystems. We will document the genetic composition of subseafloor communities and investigate functional potential and microbial activities to understand how energy and nutrients are transformed in subseafloor environments. Lastly, we will integrate these studies of community composition and microbial activities to test hypotheses of natural selection in the subseafloor.
@@ -52,6 +56,8 @@ Field work, _in situ_ activity measurements, stable isotope probing, and various
 ## Theme 3: Metabolism, Survival, and Adaptation
 
 _- concentrating on the actions and traits of individual microbial species_
+
+~[&nbsp;](../../assets/theme-3-fig.png)
 
 Themes 1 and 2 focus on subseafloor ecosystems, but many of the unique properties of the resident biota can best be investigated in the laboratory with model organisms or consortia. Theme 3 is therefore directed at examining the potential physiological, metabolic, and survival strategies employed under subseafloor conditions, including low energy flux and low or zero growth rates. It is highly likely that subseafloor microorganisms harbor fundamental traits that differ significantly from those of their faster-growing, laboratory-adapted counterparts. Uncovering the biochemical and genetic bases of those differences will inform our understanding of fundamental physiological processes of subseafloor microbes.
 
