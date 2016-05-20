@@ -11,16 +11,16 @@ We are creating ~~broad based~~ educational opportunities that allow the Centerâ
 ~~Additionally, we must translate~~ ++We are promoting++ ~~knowledge in and of~~ our field ++'s discoveries++ to the broader public ~~, in part through our core education program (which will flow to public policy, administration, and other education fields in addition to academic fields) â€” but also~~ via programs that promote ~~broader~~ dissemination of information and increased awareness ~~to the public~~ about the tremendous fraction of life on Earth that appears to be buried below the seafloor in sediment and rocks. ++Additionally, our core training programs include components extending to public policy, administration and educational fields.++
 
 [**For Teachers**](for-teachers.md)  
-Introducing deep subseafloor biosphere research into ~~the~~ K-16, community college and undergraduate classrooms through instructor workshops, classroom visits, educator grants and teaching resources
+: Introducing deep subseafloor biosphere research into ~~the~~ K-16, community college and undergraduate classrooms through instructor workshops, classroom visits, educator grants and teaching resources
 
 [**For High School Students**](for-high-school-students.md)  
- Fostering future scientists in STEM~~ (Science, Technology, Engineering, and Mathematics) ~~++-++field research laboratories and marine science programs
+: Fostering future scientists in STEM~~ (Science, Technology, Engineering, and Mathematics) ~~++-++field research laboratories and marine science programs
 
 [**For Undergraduates**](http://www.darkenergybiosphere.org/education-diversity/for-undergraduates/)  
-Involving undergraduates in hands-on research ++in the lab++ as well as ++the++ classroom ~~education~~
+: Involving undergraduates in hands-on research ++in the lab++ as well as ++the++ classroom ~~education~~
 
 [**For Graduate Students and Postdoctorals**](http://www.darkenergybiosphere.org/education-diversity/for-graduates-and-postdocs/)  
-Developing the ~~science~~ ++occupational++ foundation of young researchers through professional development, fellowships and travel grants, and training courses
+: Developing the ~~science~~ ++occupational++ foundation of young researchers through professional development, fellowships and travel grants, and training courses
 
 [**~~Outreach~~ For Everyone!**](http://www.darkenergybiosphere.org/education-diversity/for-everyone/)  
-~~Integrating~~ ++Promoting++ deep subseafloor biosphere discoveries ~~with~~ ++to++ the public
+: ~~Integrating~~ ++Promoting++ deep subseafloor biosphere discoveries ~~with~~ ++to++ the public

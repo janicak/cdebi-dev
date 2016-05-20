@@ -21,11 +21,9 @@ route: education/undergraduates/partners
 *   [University of Southern California (USC) Summer Research Experiences for Undergraduates (REU): Coastal Ocean Processes](http://dornsife.usc.edu/wrigley/REU/)
 *   [University of Southern California (USC) Summer Undergraduate Research Fund (SURF)](http://college.usc.edu/surf/)
 
-::: also
-[See PDF for more details](http://www.darkenergybiosphere.org/wp-content/uploads/docs/Partnering%20Institutions.pdf)
-:::
+[See PDF for more details](http://www.darkenergybiosphere.org/wp-content/uploads/docs/Partnering%20Institutions.pdf){.also}
 
 ## Professional Networking
 
 **[The Society for the Advancement of Chicanos and Native Americans in Science (SACNAS)](http://sacnas.org/)**  
-SACNAS is an inclusive, interdisciplinary and grass-roots driven professional organization for anyone seeking a career in a STEM (Science, Technology, Engineering, and Mathematics) field. Through mentorship and scholarship, SACNAS networks students and established professionals to diversify STEM fields, medical fields and the social sciences. C-DEBI fosters the mission of the [University of Southern California SACNAS Chapter](http://dornsife.usc.edu/sacnas/) through support of activities and participation in the SACNAS National Conference.
+: SACNAS is an inclusive, interdisciplinary and grass-roots driven professional organization for anyone seeking a career in a STEM (Science, Technology, Engineering, and Mathematics) field. Through mentorship and scholarship, SACNAS networks students and established professionals to diversify STEM fields, medical fields and the social sciences. C-DEBI fosters the mission of the [University of Southern California SACNAS Chapter](http://dornsife.usc.edu/sacnas/) through support of activities and participation in the SACNAS National Conference.

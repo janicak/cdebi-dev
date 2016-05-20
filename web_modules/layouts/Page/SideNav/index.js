@@ -45,7 +45,7 @@ export default class SideNav extends Component {
               <a href="#" onClick={ handleTitleClick }
                 className="pure-menu-link"
               >
-                { item.title }
+                { obj.title }
               </a>
             </li>
           )
@@ -53,7 +53,7 @@ export default class SideNav extends Component {
         return (
           <li key={ item.__url } className="pure-menu-item">
             <a href={ item.__url } className="pure-menu-link">
-              { item.title }
+              { obj.title }
             </a>
           </li>
         )

@@ -33,9 +33,9 @@ class Page extends Component {
     }
   }
   componentDidMount() {
-    /* if (localStorage.scroll1pos) {
+    if (localStorage.scroll1pos) {
       this.refs.Scrollbar1.scrollTop(localStorage.scroll1pos)
-    } */
+    }
     this.interval = window.setTimeout(this.loadLightboxes,50)
   }
   shouldComponentUpdate() {
@@ -64,8 +64,7 @@ class Page extends Component {
     console.log("I done updated")
   } */
   handleScroll() {
-    /* localStorage.scroll1pos = this.refs.Scrollbar1.getScrollTop()
-    localStorage.scroll2pos = this.refs.Scrollbar2.getScrollTop() */
+    localStorage.scroll1pos = this.refs.Scrollbar1.getScrollTop()
   }
   handleClick() {
     const shift = this.state.shift

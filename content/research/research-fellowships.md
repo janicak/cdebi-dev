@@ -6,11 +6,11 @@ route: research/fellowship-program
 
 ## Call for Proposals
 
->This call is now closed. We expect our next call to be due in 2017.
-
-::: also
-[DOC version of the 2016 C-DEBI Fellowship Program Guidelines **WITH WORDING UPDATES**](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIFellowshipProgram_2016b.docx)
+::: warning
+This call is now closed. We expect our next call to be due in 2017.
 :::
+
+[DOC version of the 2016 C-DEBI Fellowship Program Guidelines](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIFellowshipProgram_2016b.docx){.also}
 
 ### Program Objective
 
@@ -26,9 +26,7 @@ Each fellowship applicant will identify a primary advisor, who agrees to sponsor
 
 The primary advisor is also required to provide support for the fellow to attend an appropriate national meeting (e.g., AGU, ASM, ISME, ASLO, ISSM). Fellows are encouraged to go to the [Fall American Geophysical Union (AGU) Meeting](http://www.agu.org/meetings/) in San Francisco as this is the major meeting that many C-DEBI participants attend. Fellows are expected to attend annual [C-DEBI meetings](../community/meetings-workshops.md#c-debi-annual-meetings) supported directly by C-DEBI. _The advisor should include a statement agreeing to these points in their recommendation letter._
 
-::: also
-See our [graduate student and postdoctoral mentoring plan](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIMentoringPlan_2015.pdf)
-:::
+[Graduate student and postdoctoral mentoring plan](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIMentoringPlan_2015.pdf){.also}
 
 ### Duration and Renewal
 
@@ -36,7 +34,9 @@ We anticipate successful proposals to start 4/1/16 in alignment with our funding
 
 ## Application and Submission
 
->This call is now closed. We expect our next call to be due in 2017.
+::: warning
+This call is now closed. We expect our next call to be due in 2017.
+:::
 
 __Graduate Student Fellowship proposals__ should include:
 

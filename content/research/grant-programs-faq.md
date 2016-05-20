@@ -60,4 +60,4 @@ We anticipate making decisions on funding by 2/29/16 for successful proposals to
 Contact [Rosalynn Sylvan](mailto:rosalyyl@usc.edu), Managing Director, with your additional questions!
 
 ---
-See [what projects have been funded](http://www.darkenergybiosphere.org/research-activities/funded-projects/)
+[Funded projects](http://www.darkenergybiosphere.org/research-activities/funded-projects/){.also}

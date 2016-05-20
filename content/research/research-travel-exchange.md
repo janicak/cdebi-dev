@@ -6,15 +6,19 @@ route: research/exchanges
 
 ## Call for Proposals
 
+::: callout
+This is a rolling call.
+:::
+
 C-DEBI facilitates scientific coordination and collaborations by supporting student, postdoctoral, and faculty exchanges to build, educate and train the deep subseafloor biosphere community. We award small research and travel grants for Center affiliates. These grants may be used to support research, travel for presenting C-DEBI research at meetings, or travel exchanges to other partner institutions or institutions that have new tools and techniques that can be applied to C-DEBI research.
 
 Research exchanges establish direct linkages among groups within individual institutions, which are intended to result in a well-connected community and the development of future deep subseafloor biosphere researchers and leaders. These exchanges allow a C-DEBI researcher (student/postdoctoral/faculty) to spend 1-6 months at a participating C-DEBI community host laboratory to carry out experiments, use analytical equipment, learn a new tool, and/or join a research cruise. Research exchanges may operate between any willing C-DEBI collaborating laboratories. Travel exchanges function similarly.
 
-Financial support for exchanges through C-DEBI will be ~50% of the total cost. Matching funds would be required, for example, a travel award from any program that supports student awards in this way (e.g., Geological Society of America, NASA Lewis and Clark fellowships), or by other means, such as matching support from the researcher's institution or from a postdoctoral supervisor. We anticipate ~10 awards of $500-5000 to be granted annually. Research exchange proposals are to support travel to a lab to start a collaboration and can support up to $500 in research costs, up to $3500 for domestic travel and up to $4500 for international travel, such that with the match, the total budget is limited to $8000 for a domestic exchange or $10,000 for an international exchange.
+Financial support for exchanges through C-DEBI will be ~50% of the total cost. Matching funds would be required, for example, a travel award from any program that supports student awards in this way (e.g., Geological Society of America, NASA Lewis and Clark fellowships), or by other means, such as matching support from the researcher's institution or from a postdoctoral supervisor. We anticipate ~10 awards of $500-5000 to be granted annually. Research exchange proposals are to support travel to a lab to start a collaboration and can support up to $500 in research costs, up to $3500 for domestic travel and up to $4500 for international travel, such that with the match, the total budget is limited to $8000 for a domestic exchange or $10,000 for an international exchange. **C-DEBI encourages women and underrepresented groups to apply.**
 
->**This is a rolling call.**
->
->**C-DEBI encourages women and underrepresented groups to apply.** This funding is only available to individuals sponsored in US institutions.
+::: warning
+This funding is only available to individuals sponsored in US institutions.
+:::
 
 ## Application & Submission
 
@@ -33,4 +37,5 @@ Recipients of the exchange awards will be required to present their findings at 
 Please submit your proposal (preferably as a single PDF in the above order) to Rosalynn Sylvan, C-DEBI Managing Director ([rosalyyl@usc.edu](mailto:rosalyyl@usc.edu))
 
 ---
-See also [Funded Travel Exchanges](http://www.darkenergybiosphere.org/research-activities/funded-projects/funded-exchanges/), and the opportunity for [Interridge Cruise Travel Bursaries](http://www.interridge.org/cruisebursary) of up to $2000
+[Funded Travel Exchanges](http://www.darkenergybiosphere.org/research-activities/funded-projects/funded-exchanges/){.also}
+[Interridge Cruise Travel Bursaries (up to $2k)](http://www.interridge.org/cruisebursary){.also}

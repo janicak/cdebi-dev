@@ -4,9 +4,7 @@ layout: Page
 route: research/facilities-equipment-technology
 ---
 
-::: also
-See [PDF document](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBI%20Shared%20Resources%20and%20Facilities.pdf) for more details
-:::
+[See PDF document for more details](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBI%20Shared%20Resources%20and%20Facilities.pdf){.also}
 
 ## C-DEBI Shared Facilities and Equipment
 
@@ -49,6 +47,16 @@ Members of the C-DEBI community have access to a wide range of experimental, ana
 
 ## C-DEBI-developed Equipment, Techniques and Technology
 
+<figure>
+
+|A.|B.|C|
+|-|-|-|
+|![](http://www.darkenergybiosphere.org/wp-content/uploads/tools_DEBI-Dot.jpg)|![](http://www.darkenergybiosphere.org/wp-content/uploads/tools_GeoMicrobe.jpg)|![](http://www.darkenergybiosphere.org/wp-content/uploads/tools_CORK-Lite.jpeg)|
+<figcaption>
+Various C-DEBI inventions at use at North Pond. <strong>A.</strong> DEBI-DOT before deployment, <strong>B.</strong> GeoMicrobe Sled at North Pond CORK 1383C, and <strong>C.</strong> Deployment of CORK-LITE at North Pond.
+</figcaption>
+</figure>
+
 C-DEBI maintains a core goal of implementing effective pathways for facilitating intellectual exchange of knowledge, information, and application of new technologies to its various partners and the community at large. This philosophy includes the establishment of an open access policy for all of the new tools, innovations, laboratory techniques and software developed by C-DEBI.
 
 At the start of C-DEBI, most of the technological advances were in the form of hardware, driven by a wave of sea-going operations that expanded the bounds of subseafloor observation and sample collection. C-DEBI is continuing its sea-going operations, but is now also expanding its developmental emphasis into laboratory advances.
@@ -69,28 +77,6 @@ Below we list each of the new developments through C-DEBI. Finished developments
 *   OsmoSampler derivatives such as the Flow-Through Osmo Colonization System (FLOCS), the Enrichment OsmoSampler, and the Biological OsmoSampler System (BOSS)
 *   Mega-Fast Flow Osmo pump
 *   Syringe-based fluid samplers
-
-
-<div style="display: flex; flex-direction: column;">
-<div style="display: flex;">
-<div>A.
-
-![](http://www.darkenergybiosphere.org/wp-content/uploads/tools_DEBI-Dot.jpg)
-</div>
-<div>B.
-
-![](http://www.darkenergybiosphere.org/wp-content/uploads/tools_GeoMicrobe.jpg)
-</div>
-<div>C.
-
-![](http://www.darkenergybiosphere.org/wp-content/uploads/tools_CORK-Lite.jpeg)
-</div>
-</div>
-<div>
-
-Various C-DEBI inventions at use at North Pond. **A.** DEBI-DOT before deployment, **B.** GeoMicrobe Sled at North Pond CORK 1383C, and **C.** Deployment of CORK-LITE at North Pond.
-</div>
-</div>
 
 ### Platforms
 
@@ -132,6 +118,3 @@ Here, we list additional partnerships (in alphabetical order) outside of our pri
 *   Schmidt Ocean Institute (SOI)
 *   University of Bremen
 *   USC Wrigley Institute for Environmental Studies (WIES)
-
----
-See [PDF document](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBI%20Shared%20Resources%20and%20Facilities.pdf) for more details

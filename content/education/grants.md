@@ -8,11 +8,11 @@ route: education/grants
 
 ## Call for Proposals
 
->This call is now closed. We expect our next call to be due in 2017.
-
-::: also
-[PDF version of the 2016 C-DEBI E&O RFP](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIEducationRFP_2016.pdf)
+::: warning
+This call is now closed. We expect our next call to be due in 2017.
 :::
+
+[PDF version of the 2016 C-DEBI E&O RFP](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIEducationRFP_2016.pdf){.also}
 
 C-DEBI’s mission is to explore life beneath the seafloor and make transformative discoveries that advance science, benefit society, and inspire people of all ages and origins. Working toward that mission, our [education and outreach goals](overview.md) include creating =="distinctive, targeted" not really explained on overview page== ++distinctive, targeted++ education programs and promoting increased public awareness about life below the seafloor.
 
@@ -52,12 +52,14 @@ Successful applications will address these topics:
 
 Please submit your proposal via our online submission form.
 
->This call is now closed. We expect our next call to be due in 2017.
+::: warning
+This call is now closed. We expect our next call to be due in 2017.
+:::
 
-## Contact Information
-
+::: callout
 If you have any questions, please contact Stephanie Schroeder ([slschroe@usc.edu](mailto:stephanie.schroeder@usc.edu?subject=C-DEBI%20Education%20and%20Outreach%20Grant%20Application)), C-DEBI Education, Outreach, & Diversity Director
+:::
 
 ---
-See our [Grants Programs FAQs](http://www.darkenergybiosphere.org/research-activities/research-support/grant-program-faqs/) to understand how C-DEBI proposals are reviewed ~~and more!~~  
-See [funded education and outreach projects](http://www.darkenergybiosphere.org/research-activities/funded-projects/funded-education-proposals/)
+[Grants Programs FAQs](http://www.darkenergybiosphere.org/research-activities/research-support/grant-program-faqs/){.also}
+[Funded education and outreach projects](http://www.darkenergybiosphere.org/research-activities/funded-projects/funded-education-proposals/){.also}

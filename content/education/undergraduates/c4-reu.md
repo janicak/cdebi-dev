@@ -34,7 +34,10 @@ C4 students will be part of a greater research community, the Center for Dark En
 
 **Instructions**
 
->Applications for the 2016 REU are now closed. We expect applications for the 2017 REU to open in November.
+::: warning
+Applications for the 2016 REU are now closed. We expect applications for the 2017 REU to open in November.
+:::
 
----
+::: callout
 Direct questions to Dr. Stephanie Schroeder ([slschroe@usc.edu](mailto:slschroe@usc.edu)), C-DEBI Education, Outreach, & Diversity Director
+:::

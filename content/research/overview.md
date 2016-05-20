@@ -34,13 +34,13 @@ Answers to these questions will provide, for the first time, a foundational unde
 C-DEBI is the community-initiated means of providing the collaborative framework and support that we believe is needed for new research projects to be developed in the deep subsurface biosphere.
 
 **[Research Grant Program](research-grants)**  
-Apply for small grants in support of projects relating to C-DEBI research themes. We invite proposals up to $50,000 for projects that are relevant to deep biosphere research and in particular complement the scientific program of recent or scheduled IODP drilling expeditions.
+: Apply for small grants in support of projects relating to C-DEBI research themes. We invite proposals up to $50,000 for projects that are relevant to deep biosphere research and in particular complement the scientific program of recent or scheduled IODP drilling expeditions.
 
 **[Graduate Student and Postdoctoral Fellowship Program](research-fellowships)**  
-C-DEBI provides support for graduate student and postdoctoral fellowships awarded on the basis of scientific excellence and the appropriateness of the subject matter to Center objectives. The goal of the fellowship program is to stimulate the advancement of deep biosphere research through the training of a new generation of innovative scientists.
+: C-DEBI provides support for graduate student and postdoctoral fellowships awarded on the basis of scientific excellence and the appropriateness of the subject matter to Center objectives. The goal of the fellowship program is to stimulate the advancement of deep biosphere research through the training of a new generation of innovative scientists.
 
 **[Research and Travel Exchange Program](research-travel-exchange)**  
-C-DEBI facilitates scientific coordination and collaborations by supporting student, postdoctoral, and faculty exchanges to build, educate and train the deep subseafloor biosphere community. We award small research and travel grants for Center affiliates. These grants may be used to support research, travel for presenting C-DEBI research at meetings, or travel exchanges to other partner institutions or institutions that have new tools and techniques that can be applied to C-DEBI research.
+: C-DEBI facilitates scientific coordination and collaborations by supporting student, postdoctoral, and faculty exchanges to build, educate and train the deep subseafloor biosphere community. We award small research and travel grants for Center affiliates. These grants may be used to support research, travel for presenting C-DEBI research at meetings, or travel exchanges to other partner institutions or institutions that have new tools and techniques that can be applied to C-DEBI research.
 
 **[Bioinformatic Support](bioinformatic-support)**  
-C-DEBI is currently taking stock of past, current, and future bioinformatic needs for the deep subseafloor biosphere community, including centralizing sequencing analysis tools, archiving data, and helping C-DEBI grantees with their bioinformatic needs.
+: C-DEBI is currently taking stock of past, current, and future bioinformatic needs for the deep subseafloor biosphere community, including centralizing sequencing analysis tools, archiving data, and helping C-DEBI grantees with their bioinformatic needs.

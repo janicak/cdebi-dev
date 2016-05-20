@@ -98,7 +98,7 @@
   .Page {
     max-width: 44rem;
     margin: 0;
-    padding: 0 5rem 6rem;
+    padding: 0 5rem;
     background-color: white;
 
     @media screen and (min-width: 1400px) {
@@ -236,6 +236,7 @@ figure {
     color: #6f6f6f;
     padding-top: 1rem;
     padding-left: 1rem;
+    margin-bottom: 0;
     span {
       text-decoration: underline;
     }

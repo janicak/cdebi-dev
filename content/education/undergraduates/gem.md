@@ -63,7 +63,9 @@ So come and get your "feet wet" in microbial ecology and learn what bacteria are
 
 ## Application
 
->Applications for the 2016 course are now closed. We expect applications for the 2017 course to open in November.
+::: warning
+Applications for the 2016 course are now closed. We expect applications for the 2017 course to open in November.
+:::
 
 **Qualifications**
 
@@ -81,5 +83,6 @@ So come and get your "feet wet" in microbial ecology and learn what bacteria are
 **Course begins:**  June 5, 2016  
 **Course ends:** July 1, 2016
 
----
+::: callout
 Please contact Stephanie Schroeder at [outreach@darkenergybiosphere.org](mailto:outreach@darkenergybiosphere.org) with any questions.
+:::

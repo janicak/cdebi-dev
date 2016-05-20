@@ -1,8 +1,9 @@
 .footer {
   margin-top: 7rem;
-  padding: 1rem;
+  padding: 1rem 1rem 3rem;
   text-align: center;
   font-family: "Hind";
+  font-size: 0.833rem;
 }
 
 .link {

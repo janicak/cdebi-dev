@@ -13,6 +13,7 @@ import markdownItDeflist from "markdown-it-deflist"
 import markdownItIns from "markdown-it-ins"
 import markdownItMark from "markdown-it-mark"
 import markdownItAttrs from "markdown-it-attrs"
+import markdownItContainer from "markdown-it-container"
 import markdownItFigCaption from "./scripts/markdown-it.figcaption.extra"
 
 // note that this webpack file is exporting a "makeConfig" function
@@ -114,7 +115,6 @@ export const makeConfig = (config = {}) => {
               anchorClassName: "phenomic-HeadingAnchor",
               anchorLinkSymbolClassName: "octicon octicon-link",
               anchorLinkSymbol: "",
-              anchorLinkBefore: false,
             })
             .use(markdownItSub)
             .use(markdownItSup)
@@ -123,6 +123,8 @@ export const makeConfig = (config = {}) => {
             .use(markdownItMark)
             .use(markdownItAttrs)
             .use(markdownItFigCaption)
+            .use(markdownItContainer, "callout")
+            .use(markdownItContainer, "warning")
             .render(text)
         ),
         feedsOptions: {

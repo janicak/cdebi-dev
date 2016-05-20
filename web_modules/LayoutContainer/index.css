@@ -11,13 +11,16 @@ html {
 
 body {
   margin: 0;
-  overflow: hidden;
-
   font-size: 1rem;
   line-height: 1.55;
   font-family: var(--serif);
   font-weight: 300;
   color: var(--body-color);
+}
+
+body[style],
+body {
+  overflow: hidden !important;
 }
 
 h1 {
@@ -47,8 +50,8 @@ h3 {
 }
 
 :global .phenomic-HeadingAnchor {
-  position: relative;
-  left: 1rem;
+  position: absolute;
+  left: -1.5rem;
   opacity: 0;
   transition: opacity 0.2s;
 
@@ -57,10 +60,35 @@ h3 {
   }
 }
 
-blockquote {
+:global .callout,
+:global .warning {
   margin: 0;
-  padding: 1rem 2rem;
-  background-color: #eee;
+  padding: 1.25rem;
+  border: 1px solid #eee;
+  border-left-width: 0.25rem;
+  border-radius: 0.25rem;
+  h3 {
+    margin-top: 0 !important;
+    a {
+      display: none;
+      visibility: hidden;
+    }
+  }
+}
+
+:global .callout {
+  border-left-color: #5bc0de;
+}
+
+:global .warning {
+  border-left-color: #decd5b;
+}
+
+:global(.callout+.callout),
+:global(.callout+.warning),
+:global(.warning+.warning),
+:global(.warning+.callout) {
+  margin-top: 1.25rem;
 }
 
 hr {
@@ -130,6 +158,16 @@ figure {
     display: block;
     margin: 1rem auto;
   }
+}
+
+dd,
+ul > li,
+ol > li {
+  margin-bottom: 1rem;
+}
+
+figcaption ul > li {
+  margin-bottom: 0;
 }
 
 :global(table.list) {

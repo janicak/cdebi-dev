@@ -6,15 +6,19 @@ route: research/grants
 
 ## Call for Proposals
 
->This call is now closed. We expect our next call to be due in 2017.
+::: warning
+This call is now closed. We expect our next call to be due in 2017.
+:::
 
-[DOC version of the 2016 C-DEBI Research RFP **WITH WORDING UPDATES**](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIResearchRFP_2016b.docx)
+[DOC version of the 2016 C-DEBI Research RFP](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBIResearchRFP_2016b.docx){.also}
 
 The NSF Science and Technology Center for Dark Energy Biosphere Investigations (C-DEBI) invites proposals for 1-year research projects (in the anticipated range of $50,000-$80,000) and 1-2 year graduate student and postdoctoral fellowships that will significantly advance C-DEBI's central research agenda: to investigate the subseafloor biosphere deep in sediments and the volcanic crust, and to conduct multi-disciplinary studies to develop an integrated understanding of subseafloor microbial life at the molecular, cellular, and ecosystem scales.
 
 Phase 2 of C-DEBI comprises a transition from dominantly exploration-based investigations to projects that balance discovery with hypothesis testing, data integration and synthesis, and ecosystem modeling.
 
->C-DEBI values a diverse research environment and encourages proposals from applicants who would help to improve diversity in C-DEBI and STEM fields.
+::: callout
+C-DEBI values a diverse research environment and encourages proposals from applicants who would help to improve diversity in C-DEBI and STEM fields.
+:::
 
 This request for proposals is open to all interested researchers at US institutions able to receive NSF funding as a subaward.
 
@@ -38,23 +42,27 @@ Proposals will be considered for research on subseafloor samples, participation 
 
 Applicants should make clear the connections between proposed experiments and the deep subseafloor biosphere. Proposed projects should be innovative and aim to answer current fundamental research questions and/or contribute to the development of new hypotheses and goals for future studies of the deep sub-seafloor biosphere. Successful proposals will clearly articulate the relevance of proposed research for C-DEBI research themes, indicate sources of samples (where necessary), and describe the qualifications of the applicant(s). Entrainment of new researchers not previously funded by C-DEBI will be a consideration in the decision process.
 
-::: also
+::: callout
 Applicants are encouraged to see which [research projects](http://www.darkenergybiosphere.org/research-activities/funded-projects/) have been funded by C-DEBI in the past. See the [Review Process](#review-process) section below for additional review details.
 :::
 
 Applicants who wish to use samples or data from IODP expeditions or C-DEBI field programs must ensure that their proposed projects do not conflict with existing expedition-related projects (e.g., shipboard scientists’ projects). In cases where samples from field programs are needed, applicants should resolve this issue by contacting expedition leaders and shipboard scientists, to secure agreement to provide samples, before submitting a proposal to C-DEBI.
 
->Receiving research support from C-DEBI does not guarantee access to samples or data that are not available to the community at large.
+::: warning
+Receiving research support from C-DEBI does not guarantee access to samples or data that are not available to the community at large.
+:::
 
 For example, there is a moratorium period of one year for members of and IODP expedition science party to conduct drilling project-related research before core samples and data are made available to the general scientific community. Applicants for C-DEBI support are responsible for securing access to all samples and data needed to complete proposed work, and should provide evidence of access to the samples in the proposal. If working with IODP samples and/or data, Small Grant applicants should complete our [IODP Sample and Data Access Form](http://www.darkenergybiosphere.org/wp-content/uploads/docs/C-DEBI_IODP%20Sample%20and%20Data%20Access%20Form.docx).
 
-::: also
+::: callout
 For the IODP Sample, Data and Obligations Policy and other sample and data access information, visit [http://www.iodp.org/access-data-and-samples](http://www.iodp.org/access-data-and-samples)
 :::
 
 ## Application and Submission
 
->This call is now closed. We expect our next call to be due in 2017.
+::: warning
+This call is now closed. We expect our next call to be due in 2017.
+:::
 
 __Research proposals__ should include:
 
@@ -100,4 +108,5 @@ Please see the detailed [Grants Programs FAQs](grant-programs-faq.md) to learn h
 **Questions regarding proposal submissions can be addressed to:** Rosalynn Sylvan ([rosalyyl@usc.edu](mailto:rosalyyl@usc.edu)), C-DEBI Managing Director
 
 ---
-See [Funded Research Projects](http://www.darkenergybiosphere.org/research-activities/funded-projects/) and the [Grants Programs FAQs](grant-programs-faq.md)
+[Funded Research Projects](http://www.darkenergybiosphere.org/research-activities/funded-projects/){.also}
+[Grants Programs FAQs](grant-programs-faq.md){.also}
